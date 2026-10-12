@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Talha",
+        "designation": "developer",
+        "department": "Information Technology",
+        "salary": 75000.0,
+        "joining_date": "2025-01-01",
+        "contact": "03041234567"
+    },
+    {
+        "id": 2,
+        "name": "Tayyab",
+        "designation": "HR Officer",
+        "department": "Human Resources",
+        "salary": 65000.0,
+        "joining_date": "2025-03-15",
+        "contact": "03001112233"
+    },
+    {
+        "id": 3,
+        "name": "Hamza",
+        "designation": "Accountant",
+        "department": "Finance",
+        "salary": 70000.0,
+        "joining_date": "2024-08-10",
+        "contact": "03009998877"
+    }
+]

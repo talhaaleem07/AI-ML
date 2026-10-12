@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "employee_id": 1,
+        "date": "2026-09-10",
+        "status": "Present"
+    },
+    {
+        "id": 2,
+        "employee_id": 1,
+        "date": "2026-09-11",
+        "status": "Absent"
+    },
+    {
+        "id": 3,
+        "employee_id": 2,
+        "date": "2026-09-10",
+        "status": "Present"
+    },
+    {
+        "id": 4,
+        "employee_id": 2,
+        "date": "2026-09-11",
+        "status": "Leave"
+    },
+    {
+        "id": 5,
+        "employee_id": 3,
+        "date": "2026-09-10",
+        "status": "Present"
+    },
+    {
+        "id": 6,
+        "employee_id": 1,
+        "date": "2026-09-14",
+        "status": "Present"
+    },
+    {
+        "id": 7,
+        "employee_id": 2,
+        "date": "2026-09-14",
+        "status": "Leave"
+    },
+    {
+        "id": 8,
+        "employee_id": 3,
+        "date": "2026-09-14",
+        "status": "Absent"
+    }
+]

@@ -1,0 +1,999 @@
+Area_SqFt,Bedrooms,Bathrooms,Floors,Year_Built,City,Location,Condition,Garage,Property_Type,Furnished,Corner_Property,Park_Facing,Price_PKR,Area_Marla,Price_Per_Marla
+720.0,1.0,1.0,2.0,2005,karachi,dha phase 5,fair,0.0,house,yes,no,unknown,10300000.0,2.64,3894687.5
+9159.0,3.0,3.0,1.0,1985,unknown,north nazimabad,fair,0.0,house,no,no,unknown,82700000.0,33.64,2458245.99
+3049.0,4.0,5.0,1.0,1989,karachi,scheme 33,excellent,1.0,villa,no,no,no,20600000.0,11.2,1839406.36
+2308.0,5.0,4.0,2.0,2005,karachi,north nazimabad,fair,1.0,house,yes,unknown,unknown,28700000.0,8.48,3385431.11
+2752.0,5.0,6.0,3.0,2005,rawalpindi,saddar,poor,1.0,villa,yes,yes,no,15700000.0,10.11,1553170.42
+3692.0,4.0,3.0,1.0,2005,rawalpindi,chaklala,fair,1.0,house,no,unknown,unknown,31400000.0,13.56,2315452.33
+2104.0,2.0,2.0,3.0,2020,islamabad,i-8,excellent,0.0,house,yes,no,no,28700000.0,7.73,3713676.33
+1915.0,2.0,3.0,2.0,2005,faisalabad,wapda city,poor,0.0,house,no,no,unknown,9900000.0,7.03,1407454.31
+696.0,3.0,3.0,3.0,2018,islamabad,f-6,good,0.0,house,yes,unknown,yes,23200000.0,2.56,9075000.0
+2764.0,3.0,4.0,1.0,2011,islamabad,f-8,fair,1.0,house,unknown,yes,unknown,43900000.0,10.15,4324086.47
+770.0,4.0,4.0,1.0,2005,lahore,dha phase 5,excellent,2.0,house,yes,no,unknown,16800000.0,2.83,5940000.0
+592.0,4.0,3.0,1.0,2012,faisalabad,madina town,poor,2.0,house,no,yes,no,4500000.0,2.17,2069467.91
+1802.0,4.0,3.0,2.0,2005,lahore,dha phase 8,new,1.0,house,no,no,no,29800000.0,6.62,4502247.5
+4748.0,6.0,7.0,2.0,1998,rawalpindi,saddar,fair,1.0,house,no,yes,yes,28700000.0,17.44,1645656.07
+2589.0,3.0,2.0,2.0,2003,islamabad,gulberg greens,good,3.0,house,yes,unknown,no,17100000.0,9.51,1798174.97
+2589.0,5.0,5.0,2.0,1994,islamabad,bahria town,fair,0.0,house,no,yes,no,34800000.0,9.51,3659443.8
+1396.0,2.0,1.0,1.0,2016,karachi,dha phase 6,good,0.0,house,no,no,yes,33200000.0,5.13,6474713.47
+1612.0,6.0,7.0,3.0,2019,karachi,gulshan-e-iqbal,good,2.0,house,unknown,unknown,no,31900000.0,5.92,5387577.54
+5658.0,6.0,6.0,2.0,2005,faisalabad,gulberg colony,needs renovation,2.0,house,yes,yes,unknown,13800000.0,20.78,664024.39
+5720.0,5.0,4.0,1.0,1996,islamabad,dha phase 2,poor,2.0,house,yes,yes,yes,42900000.0,21.01,2041875.0
+3772.0,7.0,7.0,1.0,2016,karachi,gulshan-e-iqbal,fair,1.0,house,unknown,yes,unknown,42700000.0,13.85,3081939.29
+4260.0,4.0,4.0,1.0,1991,islamabad,e-7,fair,1.0,house,yes,yes,unknown,61300000.0,15.65,3917588.03
+9505.0,2.0,2.0,2.0,2005,islamabad,dha phase 2,poor,2.0,house,unknown,unknown,yes,77500000.0,34.91,2219818.52
+776.0,5.0,6.0,3.0,2003,islamabad,i-8,fair,1.0,house,no,no,no,15200000.0,2.85,5332731.96
+2239.0,1.0,2.0,2.0,2005,karachi,bahria town karachi,excellent,2.0,house,unknown,unknown,no,31000000.0,8.22,3769428.32
+4872.0,4.0,3.0,1.0,2009,lahore,dha phase 5,good,1.0,house,unknown,unknown,no,28700000.0,17.9,1603771.55
+5529.0,5.0,5.0,3.0,2005,lahore,dha phase 8,fair,0.0,villa,no,unknown,unknown,77600000.0,20.31,3821052.63
+9184.0,2.0,3.0,3.0,2005,lahore,dha phase 7,new,1.0,house,yes,yes,yes,180800000.0,33.73,5359625.44
+3578.0,1.0,1.0,1.0,1991,lahore,faisal town,good,1.0,house,unknown,yes,no,28700000.0,13.14,2183782.84
+1196.0,5.0,5.0,1.0,2014,islamabad,bahria town,good,1.0,house,yes,unknown,yes,23900000.0,4.39,5440447.32
+5279.0,3.0,4.0,2.0,2016,islamabad,f-7,new,1.0,house,yes,unknown,unknown,141100000.0,19.39,7276846.94
+5478.0,6.0,7.0,1.0,2019,unknown,gulistan-e-johar,poor,2.0,house,yes,unknown,no,49600000.0,20.12,2465060.24
+2090.0,3.0,2.0,2.0,2021,karachi,gulshan-e-iqbal,good,0.0,villa,yes,unknown,yes,35900000.0,7.68,4676447.37
+4669.0,3.0,4.0,2.0,2005,karachi,malir,fair,3.0,house,yes,no,no,26200000.0,17.15,1527725.42
+3388.0,2.0,2.0,2.0,2010,islamabad,gulberg greens,good,2.0,house,no,no,yes,32900000.0,12.44,2643750.0
+851.0,4.0,4.0,2.0,2022,islamabad,b-17,excellent,1.0,house,yes,no,no,15300000.0,3.13,4894741.48
+4262.0,4.0,3.0,1.0,2015,karachi,malir,new,2.0,house,yes,unknown,no,31600000.0,15.65,2018559.36
+5072.0,6.0,7.0,2.0,2005,islamabad,dha phase 2,needs renovation,2.0,house,yes,no,yes,37800000.0,18.63,2028992.51
+752.0,2.0,2.0,2.0,1990,islamabad,gulberg greens,fair,1.0,house,yes,no,unknown,7300000.0,2.76,2642852.39
+6587.0,2.0,2.0,1.0,2010,karachi,dha phase 8,excellent,2.0,villa,unknown,yes,no,153000000.0,24.19,6323705.78
+4694.0,3.0,2.0,2.0,2009,rawalpindi,chaklala,fair,2.0,house,no,yes,yes,23700000.0,17.24,1374589.9
+5175.0,4.0,3.0,1.0,1997,lahore,askari 10,needs renovation,1.0,house,yes,yes,no,34300000.0,19.01,1804478.26
+2843.0,4.0,4.0,2.0,2024,lahore,gulberg,new,1.0,house,unknown,unknown,yes,77500000.0,10.44,7421517.76
+802.0,3.0,3.0,1.0,2015,islamabad,f-7,excellent,1.0,house,unknown,no,yes,23900000.0,2.95,8113185.79
+3100.0,4.0,5.0,3.0,2005,lahore,model town,excellent,0.0,house,yes,yes,yes,60800000.0,11.39,5339612.9
+1145.0,4.0,4.0,1.0,2017,karachi,bahria town karachi,fair,2.0,house,no,unknown,yes,14800000.0,4.21,3519039.3
+2127.0,7.0,6.0,2.0,2022,lahore,faisal town,excellent,1.0,house,unknown,no,no,37400000.0,7.81,4787094.5
+2891.0,3.0,3.0,1.0,2005,islamabad,pwd,new,1.0,house,yes,yes,yes,26900000.0,10.62,2533215.15
+5089.0,5.0,5.0,2.0,1991,islamabad,g-11,excellent,1.0,house,yes,no,yes,73700000.0,18.69,3942783.45
+1204.0,2.0,2.0,1.0,2008,karachi,dha phase 5,good,3.0,house,no,no,unknown,29700000.0,4.42,6715801.5
+592.0,5.0,4.0,2.0,2005,lahore,cantt,excellent,2.0,house,unknown,yes,unknown,21000000.0,2.17,9657516.89
+5821.0,4.0,6.0,2.0,2000,lahore,cantt,good,0.0,house,no,unknown,no,82600000.0,21.38,3863227.97
+618.0,4.0,4.0,2.0,2005,lahore,wapda town,excellent,1.0,house,unknown,no,yes,10600000.0,2.27,4669660.19
+5312.0,4.0,3.0,4.0,1991,lahore,garden town,good,2.0,villa,yes,no,unknown,48400000.0,19.51,2480591.11
+2103.0,4.0,4.0,2.0,1994,islamabad,f-8,good,2.0,house,no,yes,unknown,33900000.0,7.72,4388623.4
+1781.0,3.0,2.0,1.0,2021,rawalpindi,dha phase 2,good,2.0,house,unknown,unknown,yes,24800000.0,6.54,3791016.28
+8993.0,3.0,3.0,2.0,2005,lahore,state life housing society,good,0.0,house,unknown,no,unknown,66700000.0,33.03,2019245.52
+6968.0,3.0,4.0,2.0,2007,islamabad,bahria town,excellent,1.0,house,unknown,unknown,yes,77400000.0,25.59,3024131.75
+5693.0,4.0,4.0,1.0,1988,lahore,wapda town,needs renovation,3.0,house,no,no,unknown,31700000.0,20.91,1515953.8
+862.0,5.0,4.0,2.0,1989,karachi,gulistan-e-johar,good,1.0,villa,unknown,unknown,no,15300000.0,3.17,4832279.58
+6894.0,2.0,3.0,2.0,2016,faisalabad,canal road,excellent,1.0,house,no,unknown,no,42000000.0,25.32,1658616.19
+4997.0,3.0,2.0,2.0,1993,karachi,pechs,fair,2.0,villa,yes,yes,no,40500000.0,18.35,2206548.93
+7098.0,4.0,3.0,3.0,2005,islamabad,f-8,excellent,0.0,villa,no,yes,no,189000000.0,26.07,7249260.36
+1038.0,5.0,5.0,2.0,2005,rawalpindi,bahria town,good,1.0,house,no,yes,unknown,11900000.0,3.81,3121170.52
+2911.0,5.0,4.0,1.0,2000,lahore,raiwind road,good,2.0,villa,no,unknown,yes,16900000.0,10.69,1580565.1
+2914.0,5.0,5.0,1.0,2019,lahore,raiwind road,fair,2.0,villa,yes,no,unknown,27300000.0,10.7,2550591.97
+3275.0,5.0,5.0,2.0,1991,lahore,garden town,good,1.0,house,no,no,unknown,32900000.0,12.03,2734969.47
+4677.0,3.0,3.0,1.0,2007,lahore,dha phase 5,needs renovation,2.0,villa,no,yes,no,58900000.0,17.18,3428592.05
+25000.0,6.0,6.0,2.0,2024,islamabad,b-17,good,2.0,villa,no,no,unknown,100000.0,91.83,1089.0
+2668.0,5.0,5.0,2.0,1992,lahore,faisal town,good,0.0,house,no,no,no,27600000.0,9.8,2816379.31
+3833.0,5.0,5.0,2.0,2005,karachi,malir,good,2.0,house,yes,unknown,unknown,39100000.0,14.08,2777191.49
+739.0,2.0,1.0,1.0,2020,lahore,wapda town,good,1.0,villa,yes,no,unknown,13100000.0,2.71,4826082.54
+7103.0,3.0,4.0,2.0,2003,lahore,garden town,new,1.0,house,unknown,yes,no,81700000.0,26.09,3131469.1
+1041.0,4.0,4.0,2.0,1996,islamabad,gulberg greens,fair,2.0,house,yes,unknown,yes,10200000.0,3.82,2667579.25
+700.0,1.0,1.0,2.0,1995,lahore,askari 10,excellent,1.0,villa,yes,yes,unknown,8600000.0,2.57,3344785.71
+1361.0,4.0,3.0,2.0,1995,karachi,dha phase 6,good,1.0,house,yes,no,unknown,30700000.0,5.0,6141127.85
+8465.0,2.0,2.0,3.0,2005,islamabad,dha phase 2,good,1.0,villa,no,yes,yes,79800000.0,31.09,2566515.06
+742.0,2.0,1.0,2.0,2018,islamabad,g-11,fair,2.0,villa,no,no,unknown,9200000.0,2.73,3375606.47
+5662.0,4.0,4.0,3.0,2015,karachi,scheme 33,fair,1.0,house,no,yes,yes,48200000.0,20.8,2317635.11
+4745.0,4.0,3.0,2.0,2012,unknown,g-10,fair,0.0,villa,yes,unknown,no,57700000.0,17.43,3310605.9
+1737.0,6.0,6.0,2.0,2001,karachi,bahria town karachi,excellent,1.0,villa,no,no,no,27800000.0,6.38,4357253.89
+9432.0,6.0,5.0,1.0,2024,faisalabad,canal road,good,1.0,villa,yes,unknown,unknown,66700000.0,34.64,1925262.4
+3074.0,4.0,4.0,1.0,2005,lahore,johar town,new,2.0,house,yes,yes,no,47800000.0,11.29,4233425.5
+3442.0,2.0,3.0,3.0,1988,karachi,gulshan-e-iqbal,good,1.0,house,yes,yes,yes,35400000.0,12.64,2800014.53
+5165.0,5.0,4.0,3.0,1985,faisalabad,canal road,poor,2.0,house,no,unknown,unknown,15900000.0,18.97,838097.77
+2903.0,3.0,4.0,3.0,2020,islamabad,pwd,fair,2.0,house,yes,unknown,no,35400000.0,10.66,3319893.21
+1883.0,3.0,3.0,1.0,2004,lahore,dha phase 7,good,3.0,villa,yes,no,no,22000000.0,6.92,3180828.47
+4822.0,4.0,4.0,1.0,1997,islamabad,g-11,new,1.0,house,yes,yes,unknown,54500000.0,17.71,3077068.64
+5674.0,5.0,5.0,2.0,2005,islamabad,b-17,new,1.0,house,yes,no,yes,77900000.0,20.84,3737799.61
+9059.0,2.0,2.0,2.0,2013,islamabad,bahria town,poor,2.0,house,yes,unknown,no,68300000.0,33.27,2052618.94
+4783.0,4.0,3.0,3.0,1989,rawalpindi,saddar,good,1.0,house,no,unknown,yes,24300000.0,17.57,1383164.33
+4886.0,4.0,3.0,3.0,2005,faisalabad,wapda city,needs renovation,1.0,villa,no,yes,no,19100000.0,17.95,1064260.13
+1364.0,3.0,3.0,2.0,2025,karachi,dha phase 8,fair,3.0,villa,yes,no,no,41500000.0,5.01,8283266.13
+2869.0,3.0,4.0,1.0,2005,islamabad,b-17,needs renovation,2.0,house,unknown,no,yes,26300000.0,10.54,2495704.08
+1549.0,5.0,5.0,1.0,1993,lahore,dha phase 8,good,2.0,house,unknown,unknown,yes,21400000.0,5.69,3761233.05
+5714.0,4.0,4.0,3.0,1998,lahore,johar town,good,2.0,house,no,no,no,48200000.0,20.99,2296543.58
+4610.0,5.0,4.0,3.0,1999,karachi,dha phase 7,needs renovation,2.0,villa,yes,unknown,yes,38300000.0,16.93,2261860.09
+2635.0,3.0,4.0,1.0,2009,faisalabad,gulberg colony,good,2.0,villa,unknown,unknown,yes,16100000.0,9.68,1663463.0
+1448.0,5.0,5.0,1.0,2016,karachi,scheme 33,excellent,1.0,villa,yes,no,no,17200000.0,5.32,3233908.84
+1379.0,5.0,4.0,1.0,2005,karachi,gulistan-e-johar,fair,2.0,villa,unknown,no,yes,16400000.0,5.07,3237781.0
+2510.0,2.0,2.0,3.0,2005,faisalabad,people's colony,good,2.0,house,unknown,yes,yes,19700000.0,9.22,2136782.87
+1340.0,5.0,4.0,3.0,2005,lahore,dha phase 7,good,1.0,house,no,unknown,no,30200000.0,4.92,6135783.58
+609.0,4.0,3.0,2.0,1991,lahore,dha phase 6,excellent,2.0,villa,unknown,unknown,yes,14000000.0,2.24,6258620.69
+9537.0,4.0,4.0,3.0,2005,lahore,bahria town,good,1.0,house,unknown,yes,yes,90300000.0,35.03,2577768.17
+5173.0,4.0,5.0,2.0,1985,islamabad,e-7,fair,1.0,house,unknown,unknown,yes,67600000.0,19.0,3557722.79
+956.0,6.0,6.0,3.0,2017,rawalpindi,saddar,good,2.0,house,unknown,unknown,yes,13500000.0,3.51,3844534.52
+2989.0,2.0,2.0,2.0,2022,lahore,state life housing society,poor,1.0,house,no,yes,yes,21800000.0,10.98,1985630.65
+9061.0,4.0,3.0,3.0,2005,islamabad,g-10,needs renovation,1.0,house,no,unknown,unknown,60400000.0,33.28,1814799.69
+1409.0,3.0,4.0,2.0,2005,karachi,dha phase 6,good,0.0,house,unknown,unknown,yes,29900000.0,5.18,5777342.09
+6974.0,3.0,3.0,1.0,2020,islamabad,gulberg greens,fair,1.0,villa,yes,no,yes,75000000.0,25.62,2927839.12
+969.0,5.0,4.0,2.0,2005,faisalabad,jinnah colony,fair,1.0,house,yes,yes,yes,9600000.0,3.56,2697213.62
+2968.0,5.0,6.0,2.0,2005,karachi,dha phase 8,new,1.0,house,yes,yes,unknown,55200000.0,10.9,5063409.7
+2693.0,3.0,2.0,2.0,2012,lahore,dha phase 8,excellent,1.0,house,yes,yes,no,47200000.0,9.89,4771704.42
+1318.0,4.0,5.0,3.0,2005,rawalpindi,pwd,fair,1.0,house,no,unknown,yes,8200000.0,4.84,1693816.39
+1123.0,5.0,4.0,1.0,2012,lahore,raiwind road,new,2.0,house,unknown,unknown,unknown,15800000.0,4.12,3830409.62
+4848.0,5.0,4.0,1.0,2005,rawalpindi,chaklala,excellent,2.0,house,yes,unknown,no,56100000.0,17.81,3150417.7
+4949.0,4.0,2.0,3.0,2006,faisalabad,madina town,fair,4.0,house,unknown,unknown,no,27500000.0,18.18,1512805.62
+8323.0,3.0,3.0,1.0,2010,faisalabad,canal road,excellent,1.0,house,no,unknown,yes,41000000.0,30.57,1341133.0
+926.0,5.0,5.0,2.0,2021,rawalpindi,bahria town,good,2.0,house,unknown,unknown,unknown,14600000.0,3.4,4292494.6
+5061.0,4.0,4.0,2.0,2014,rawalpindi,chaklala,good,1.0,house,yes,no,yes,40700000.0,18.59,2189404.27
+5739.0,6.0,5.0,1.0,1993,rawalpindi,adiala road,fair,3.0,house,yes,yes,unknown,27800000.0,21.08,1318792.47
+1355.0,6.0,5.0,2.0,2020,rawalpindi,satellite town,good,0.0,house,yes,no,no,19100000.0,4.98,3837619.93
+741.0,2.0,2.0,1.0,1986,islamabad,pwd,fair,2.0,house,unknown,unknown,no,6600000.0,2.72,2424898.79
+717.0,4.0,5.0,2.0,2005,lahore,johar town,good,2.0,house,no,yes,unknown,13600000.0,2.63,5164016.74
+690.0,4.0,4.0,1.0,2005,unknown,gulshan-e-iqbal,new,2.0,house,yes,unknown,unknown,19500000.0,2.53,7694021.74
+3401.0,3.0,4.0,1.0,1998,karachi,dha phase 6,needs renovation,2.0,house,yes,unknown,unknown,28700000.0,12.49,2297434.58
+3335.0,5.0,5.0,2.0,2022,karachi,bahria town karachi,new,1.0,house,no,no,unknown,54000000.0,12.25,4408245.88
+2589.0,4.0,4.0,2.0,2025,rawalpindi,chaklala,poor,1.0,house,no,no,yes,43800000.0,9.51,4605851.68
+2589.0,2.0,2.0,2.0,2005,rawalpindi,bahria town,excellent,1.0,house,yes,no,no,19300000.0,9.51,2029519.12
+4548.0,5.0,4.0,2.0,2005,karachi,north nazimabad,fair,1.0,house,yes,yes,yes,71900000.0,16.71,4304040.24
+1929.0,4.0,4.0,1.0,2002,islamabad,bahria town,good,1.0,house,yes,unknown,no,29900000.0,7.09,4219945.57
+747.0,7.0,6.0,2.0,2021,lahore,raiwind road,fair,1.0,villa,yes,unknown,yes,13300000.0,2.74,4847289.16
+1116.0,6.0,7.0,2.0,2005,lahore,gulberg,new,2.0,villa,unknown,yes,yes,41200000.0,4.1,10050806.45
+4272.0,5.0,5.0,1.0,2005,lahore,raiwind road,needs renovation,3.0,house,unknown,no,yes,18100000.0,15.69,1153493.68
+742.0,4.0,3.0,3.0,2011,lahore,dha phase 8,poor,2.0,house,unknown,no,yes,13000000.0,2.73,4769878.71
+1269.0,3.0,2.0,2.0,2024,rawalpindi,satellite town,good,1.0,villa,unknown,yes,unknown,17100000.0,4.66,3668617.02
+8876.0,4.0,5.0,3.0,1992,lahore,dha phase 7,excellent,1.0,house,yes,unknown,yes,99300000.0,32.6,3045789.21
+4465.0,4.0,3.0,2.0,1988,lahore,garden town,fair,1.0,house,unknown,yes,yes,36000000.0,16.4,2195072.79
+749.0,3.0,2.0,1.0,1991,faisalabad,people's colony,good,1.0,house,yes,yes,no,5800000.0,2.75,2108210.95
+1401.0,4.0,4.0,2.0,2005,islamabad,i-8,excellent,0.0,house,no,no,no,28700000.0,5.15,5577141.33
+5202.0,4.0,4.0,2.0,2005,lahore,askari 10,good,3.0,house,unknown,unknown,no,51900000.0,19.11,2716219.72
+711.0,2.0,2.0,1.0,2005,rawalpindi,dha phase 2,excellent,2.0,house,yes,no,unknown,8500000.0,2.61,3254746.84
+1449.0,3.0,4.0,1.0,2003,karachi,dha phase 7,good,2.0,villa,yes,yes,no,25600000.0,5.32,4809937.89
+578.0,4.0,4.0,2.0,2015,lahore,dha phase 8,needs renovation,0.0,house,yes,no,unknown,9600000.0,2.12,4521799.31
+1160.0,3.0,2.0,2.0,2006,karachi,scheme 33,good,1.0,house,no,unknown,unknown,15200000.0,4.26,3567413.79
+2419.0,4.0,5.0,2.0,2022,lahore,gulberg,poor,2.0,house,yes,yes,yes,41700000.0,8.89,4693189.33
+2762.0,5.0,5.0,2.0,1985,lahore,bahria town,new,1.0,house,no,unknown,unknown,33700000.0,10.15,3321804.85
+5055.0,6.0,6.0,3.0,2024,islamabad,bahria town,needs renovation,1.0,house,unknown,no,yes,45900000.0,18.57,2472062.31
+5018.0,5.0,6.0,2.0,1994,faisalabad,madina town,fair,3.0,house,yes,no,no,21100000.0,18.43,1144773.81
+5229.0,3.0,3.0,2.0,2014,islamabad,f-8,excellent,2.0,house,no,yes,yes,103400000.0,19.21,5383562.82
+5205.0,4.0,4.0,2.0,2022,islamabad,g-10,good,3.0,house,no,no,no,68500000.0,19.12,3582925.07
+5036.0,2.0,2.0,2.0,2005,karachi,dha phase 5,good,3.0,house,no,no,yes,81000000.0,18.5,4378921.76
+6763.0,4.0,4.0,3.0,2000,rawalpindi,pwd,good,1.0,villa,yes,no,yes,35200000.0,24.84,1417004.29
+4963.0,4.0,4.0,3.0,2012,unknown,adiala road,excellent,1.0,house,no,yes,no,28700000.0,18.23,1574365.3
+2565.0,4.0,4.0,1.0,2005,lahore,dha phase 7,good,2.0,house,yes,no,unknown,43700000.0,9.42,4638333.33
+1168.0,5.0,5.0,1.0,1989,islamabad,i-8,excellent,1.0,house,yes,yes,yes,17900000.0,4.29,4172324.49
+4806.0,5.0,4.0,1.0,2004,rawalpindi,dha phase 2,excellent,1.0,house,yes,yes,unknown,46300000.0,17.65,2622799.63
+7012.0,7.0,7.0,3.0,2005,islamabad,g-11,fair,2.0,house,yes,unknown,yes,76100000.0,25.76,2954681.26
+4697.0,2.0,1.0,2.0,2016,karachi,gulshan-e-iqbal,poor,2.0,house,no,yes,yes,40900000.0,17.25,2370667.45
+9679.0,4.0,5.0,3.0,2005,lahore,model town,fair,4.0,house,no,no,unknown,125700000.0,35.55,3535677.76
+8377.0,4.0,4.0,1.0,2009,lahore,garden town,fair,2.0,house,no,unknown,no,71600000.0,30.77,2326978.63
+5040.0,4.0,4.0,2.0,2019,islamabad,i-8,needs renovation,2.0,house,yes,no,unknown,60100000.0,18.51,3246473.21
+4601.0,6.0,5.0,2.0,1994,lahore,johar town,fair,1.0,villa,no,unknown,no,38700000.0,16.9,2289953.27
+931.0,5.0,5.0,3.0,1989,islamabad,g-11,fair,2.0,house,no,unknown,yes,13600000.0,3.42,3977013.96
+1538.0,4.0,4.0,1.0,2007,karachi,gulistan-e-johar,excellent,2.0,house,yes,unknown,unknown,21200000.0,5.65,3752730.82
+1148.0,4.0,3.0,1.0,2009,karachi,dha phase 6,new,1.0,house,no,unknown,no,30900000.0,4.22,7327983.45
+8739.0,3.0,3.0,2.0,1989,rawalpindi,saddar,needs renovation,0.0,house,yes,no,unknown,21800000.0,32.1,679145.21
+930.0,4.0,3.0,1.0,1997,lahore,state life housing society,excellent,1.0,house,no,unknown,unknown,9200000.0,3.42,2693225.81
+5718.0,4.0,6.0,2.0,2014,lahore,garden town,fair,1.0,villa,no,yes,no,49400000.0,21.0,2352072.4
+560.0,4.0,3.0,1.0,1987,karachi,pechs,fair,2.0,house,yes,unknown,yes,7500000.0,2.06,3646205.36
+1336.0,2.0,1.0,1.0,2005,lahore,cantt,fair,3.0,villa,yes,no,unknown,16400000.0,4.91,3341991.02
+4618.0,1.0,1.0,1.0,1995,faisalabad,gulberg colony,poor,2.0,house,unknown,no,unknown,13400000.0,16.96,789984.84
+2296.0,5.0,5.0,2.0,2005,islamabad,gulberg greens,excellent,2.0,house,unknown,yes,yes,23800000.0,8.43,2822103.66
+904.0,5.0,5.0,2.0,1987,rawalpindi,pwd,good,3.0,house,yes,no,no,8300000.0,3.32,2499640.49
+767.0,3.0,2.0,2.0,1989,lahore,raiwind road,good,1.0,house,yes,no,unknown,7100000.0,2.82,2520176.01
+4821.0,6.0,6.0,2.0,2025,karachi,clifton,good,2.0,house,yes,no,yes,121800000.0,17.71,6878251.4
+4288.0,4.0,5.0,2.0,2016,karachi,pechs,excellent,1.0,house,yes,no,unknown,69000000.0,15.75,4380888.53
+4666.0,4.0,3.0,2.0,2009,karachi,dha phase 6,fair,2.0,house,no,no,no,73000000.0,17.14,4259376.34
+9645.0,3.0,3.0,2.0,2005,karachi,clifton,fair,1.0,house,yes,unknown,unknown,137700000.0,35.43,3886866.25
+1923.0,4.0,3.0,3.0,2005,unknown,dha phase 5,good,1.0,house,no,yes,unknown,56000000.0,7.06,7928237.13
+4683.0,5.0,5.0,1.0,1995,lahore,wapda town,good,2.0,house,unknown,no,yes,36100000.0,17.2,2098702.75
+1717.0,5.0,6.0,3.0,2005,lahore,raiwind road,good,1.0,house,yes,unknown,yes,21500000.0,6.31,3409071.05
+868.0,5.0,4.0,1.0,1986,karachi,north nazimabad,poor,1.0,house,unknown,unknown,unknown,8000000.0,3.19,2509216.59
+1874.0,2.0,1.0,3.0,2020,karachi,clifton,good,2.0,house,yes,unknown,yes,42300000.0,6.88,6145237.46
+1131.0,4.0,4.0,2.0,1987,rawalpindi,bahria town,excellent,0.0,house,no,yes,unknown,11900000.0,4.15,2864522.55
+2113.0,6.0,4.0,2.0,1988,lahore,model town,good,1.0,house,yes,no,no,33000000.0,7.76,4251893.04
+1401.0,5.0,5.0,2.0,2005,rawalpindi,dha phase 2,excellent,3.0,house,yes,unknown,unknown,19900000.0,5.15,3867077.09
+872.0,4.0,5.0,2.0,1988,islamabad,f-8,new,2.0,house,yes,unknown,yes,17600000.0,3.2,5494954.13
+2982.0,6.0,7.0,1.0,2008,lahore,model town,new,3.0,house,no,no,no,63200000.0,10.95,5770020.12
+3193.0,5.0,4.0,3.0,1996,islamabad,i-8,good,1.0,house,unknown,unknown,unknown,41200000.0,11.73,3512903.23
+3247.0,2.0,3.0,2.0,2005,faisalabad,satiana road,excellent,0.0,villa,no,yes,no,17100000.0,11.93,1433777.33
+4281.0,5.0,5.0,3.0,2011,karachi,bahria town karachi,good,0.0,house,no,unknown,no,36600000.0,15.72,2327575.33
+2768.0,2.0,2.0,1.0,2008,lahore,raiwind road,fair,1.0,house,unknown,unknown,no,16900000.0,10.17,1662220.01
+1417.0,2.0,3.0,4.0,2000,karachi,pechs,fair,1.0,villa,no,no,no,16600000.0,5.2,3189378.97
+1432.0,4.0,3.0,2.0,2005,rawalpindi,chaklala,good,1.0,villa,no,yes,unknown,11800000.0,5.26,2243400.84
+3809.0,5.0,6.0,3.0,2025,islamabad,f-7,good,3.0,house,yes,yes,no,85000000.0,13.99,6075413.49
+960.0,2.0,2.0,3.0,2005,lahore,dha phase 7,good,0.0,house,no,yes,no,11400000.0,3.53,3232968.75
+585.0,6.0,6.0,1.0,1992,islamabad,e-7,fair,0.0,house,yes,yes,yes,28700000.0,2.15,13356538.46
+2368.0,3.0,3.0,2.0,2014,islamabad,f-6,good,2.0,house,unknown,unknown,unknown,46700000.0,8.7,5369119.51
+2273.0,6.0,6.0,2.0,2015,lahore,gulberg,new,2.0,house,unknown,no,no,48300000.0,8.35,5785162.78
+1362.0,5.0,4.0,2.0,2005,faisalabad,jinnah colony,good,3.0,villa,yes,unknown,no,11700000.0,5.0,2338711.45
+9018.0,4.0,5.0,2.0,2025,islamabad,f-6,good,2.0,house,unknown,no,yes,218000000.0,33.12,6581337.33
+1757.0,6.0,6.0,2.0,2024,islamabad,b-17,good,2.0,villa,no,no,unknown,29100000.0,6.45,4509092.2
+2071.0,3.0,4.0,1.0,2005,lahore,faisal town,excellent,2.0,villa,yes,yes,unknown,27000000.0,7.61,3549372.28
+5037.0,5.0,6.0,1.0,2013,islamabad,e-7,fair,0.0,house,yes,no,yes,66800000.0,18.5,3610541.99
+4299.0,7.0,8.0,2.0,2005,rawalpindi,bahria town,good,1.0,villa,no,yes,unknown,49200000.0,15.79,3115771.11
+4654.0,4.0,4.0,1.0,2005,karachi,gulistan-e-johar,good,1.0,house,unknown,yes,unknown,37200000.0,17.09,2176128.06
+2331.0,4.0,5.0,4.0,2023,lahore,faisal town,new,2.0,house,unknown,no,yes,52800000.0,8.56,6166795.37
+2845.0,3.0,3.0,1.0,2023,karachi,dha phase 8,new,1.0,villa,unknown,unknown,unknown,99400000.0,10.45,9512003.51
+3360.0,5.0,4.0,2.0,2013,rawalpindi,pwd,excellent,4.0,villa,yes,unknown,unknown,28700000.0,12.34,2325468.75
+3653.0,5.0,4.0,2.0,2005,lahore,garden town,poor,1.0,house,yes,unknown,yes,22200000.0,13.42,1654516.84
+2914.0,7.0,6.0,1.0,1994,islamabad,g-10,good,3.0,house,no,yes,yes,36400000.0,10.7,3400789.29
+4840.0,1.0,1.0,2.0,2023,islamabad,g-11,poor,2.0,house,no,unknown,unknown,54200000.0,17.78,3048750.0
+2589.0,5.0,4.0,2.0,1988,unknown,people's colony,excellent,1.0,house,yes,unknown,no,8200000.0,9.51,862282.73
+3310.0,5.0,4.0,1.0,2005,karachi,dha phase 5,needs renovation,1.0,house,yes,unknown,yes,46700000.0,12.16,3841110.27
+1350.0,6.0,6.0,2.0,2008,rawalpindi,adiala road,excellent,1.0,house,yes,unknown,yes,12700000.0,4.96,2561166.67
+1511.0,3.0,4.0,2.0,2006,rawalpindi,bahria town,fair,1.0,house,unknown,no,no,15400000.0,5.55,2774751.82
+963.0,6.0,6.0,2.0,2020,islamabad,pwd,needs renovation,1.0,house,no,unknown,no,9100000.0,3.54,2572663.55
+1344.0,5.0,6.0,2.0,2005,faisalabad,canal road,excellent,2.0,house,no,yes,yes,12600000.0,4.94,2552343.75
+1474.0,3.0,2.0,1.0,2005,lahore,dha phase 5,excellent,1.0,house,yes,unknown,unknown,26500000.0,5.41,4894589.55
+7221.0,4.0,3.0,1.0,2009,unknown,model town,new,1.0,house,unknown,no,no,117500000.0,26.52,4430047.78
+726.0,5.0,4.0,2.0,2002,lahore,faisal town,excellent,2.0,house,no,yes,unknown,14400000.0,2.67,5400000.0
+691.0,3.0,4.0,1.0,2005,rawalpindi,bahria town,excellent,2.0,villa,unknown,yes,no,11100000.0,2.54,4373335.75
+9719.0,2.0,2.0,3.0,2021,lahore,dha phase 6,poor,4.0,house,unknown,unknown,unknown,151600000.0,35.7,4246640.6
+1385.0,4.0,5.0,2.0,2012,islamabad,gulberg greens,new,2.0,house,yes,yes,unknown,21900000.0,5.09,4304891.7
+6244.0,4.0,3.0,2.0,2023,lahore,dha phase 6,poor,1.0,house,unknown,unknown,no,113700000.0,22.93,4957531.23
+2903.0,4.0,4.0,4.0,2005,lahore,dha phase 5,excellent,1.0,house,no,yes,yes,63000000.0,10.66,5908284.53
+880.0,3.0,2.0,2.0,2005,karachi,north nazimabad,good,1.0,house,no,no,no,12000000.0,3.23,3712500.0
+3766.0,1.0,1.0,2.0,2005,karachi,gulistan-e-johar,fair,2.0,villa,unknown,yes,yes,31200000.0,13.83,2255496.55
+1619.0,4.0,4.0,1.0,2005,karachi,dha phase 6,excellent,1.0,house,yes,unknown,no,38100000.0,5.95,6406871.53
+2815.0,4.0,4.0,2.0,2001,rawalpindi,askari,excellent,0.0,house,unknown,no,no,21700000.0,10.34,2098694.49
+554.0,4.0,3.0,2.0,2005,rawalpindi,dha phase 2,new,2.0,house,yes,unknown,yes,7800000.0,2.03,3833122.74
+1162.0,3.0,3.0,2.0,2014,rawalpindi,chaklala,excellent,1.0,house,no,yes,unknown,14800000.0,4.27,3467555.94
+964.0,4.0,5.0,2.0,2005,lahore,dha phase 5,fair,1.0,villa,yes,unknown,unknown,15700000.0,3.54,4433947.1
+4375.0,5.0,5.0,2.0,2017,rawalpindi,adiala road,new,0.0,house,yes,yes,no,28500000.0,16.07,1773514.29
+4404.0,5.0,5.0,2.0,2005,karachi,scheme 33,new,1.0,house,no,unknown,yes,57300000.0,16.18,3542217.3
+5432.0,5.0,4.0,1.0,2005,lahore,gulberg,good,1.0,house,unknown,no,yes,104300000.0,19.95,5227480.67
+6559.0,4.0,6.0,2.0,1989,lahore,dha phase 7,needs renovation,0.0,house,no,yes,unknown,53000000.0,24.09,2199916.15
+8573.0,2.0,2.0,1.0,2018,karachi,scheme 33,excellent,1.0,house,unknown,no,unknown,79000000.0,31.49,2508777.56
+8518.0,4.0,4.0,1.0,2005,faisalabad,wapda city,excellent,1.0,house,no,no,no,36400000.0,31.29,1163406.9
+5402.0,6.0,7.0,2.0,2023,lahore,state life housing society,fair,4.0,house,no,no,no,54100000.0,19.84,2726531.84
+5273.0,4.0,4.0,1.0,2005,islamabad,g-11,fair,1.0,house,yes,unknown,yes,54900000.0,19.37,2834539.16
+1458.0,2.0,3.0,2.0,1994,lahore,cantt,good,3.0,house,yes,yes,yes,26100000.0,5.36,4873611.11
+639.0,3.0,2.0,3.0,2003,rawalpindi,saddar,good,2.0,house,unknown,no,yes,7800000.0,2.35,3323239.44
+5009.0,3.0,4.0,1.0,2006,lahore,bahria town,poor,0.0,villa,yes,yes,yes,43300000.0,18.4,2353448.79
+878.0,5.0,5.0,2.0,2005,lahore,bahria town,needs renovation,2.0,house,no,yes,unknown,8300000.0,3.22,2573661.73
+5010.0,4.0,6.0,1.0,2023,islamabad,i-8,needs renovation,2.0,villa,yes,no,no,56200000.0,18.4,3053982.04
+1345.0,2.0,2.0,2.0,1991,lahore,wapda town,new,3.0,house,unknown,no,yes,13900000.0,4.94,2813587.36
+795.0,4.0,4.0,1.0,2025,rawalpindi,dha phase 2,fair,0.0,house,yes,no,yes,12300000.0,2.92,4212169.81
+5484.0,4.0,3.0,3.0,1992,karachi,dha phase 7,needs renovation,2.0,villa,yes,yes,no,50700000.0,20.14,2516972.1
+726.0,2.0,2.0,1.0,1985,karachi,bahria town karachi,poor,1.0,villa,unknown,yes,no,5400000.0,2.67,2025000.0
+7217.0,3.0,3.0,1.0,1997,lahore,raiwind road,excellent,4.0,house,yes,no,yes,44800000.0,26.51,1690009.7
+3258.0,3.0,4.0,4.0,2005,islamabad,g-11,good,2.0,villa,no,unknown,unknown,32700000.0,11.97,2732527.62
+5125.0,5.0,4.0,2.0,1995,lahore,wapda town,needs renovation,2.0,house,no,unknown,unknown,28700000.0,18.82,1524600.0
+1507.0,3.0,3.0,2.0,1994,lahore,garden town,good,2.0,house,yes,no,no,14000000.0,5.54,2529197.08
+8960.0,6.0,6.0,4.0,2006,karachi,gulshan-e-iqbal,good,1.0,house,yes,yes,unknown,89900000.0,32.91,2731615.51
+9325.0,5.0,4.0,1.0,2005,islamabad,f-7,excellent,2.0,house,unknown,yes,unknown,200000000.0,34.25,5839142.09
+9230.0,5.0,5.0,2.0,2005,karachi,dha phase 6,fair,3.0,house,no,unknown,unknown,137400000.0,33.9,4052778.98
+3392.0,6.0,6.0,1.0,2005,karachi,dha phase 8,excellent,1.0,villa,yes,unknown,yes,73800000.0,12.46,5923363.8
+5219.0,4.0,3.0,2.0,1991,islamabad,i-8,excellent,1.0,house,unknown,yes,no,65500000.0,19.17,3416818.36
+2112.0,2.0,2.0,2.0,2023,lahore,garden town,excellent,1.0,house,yes,no,yes,34700000.0,7.76,4473046.88
+4741.0,6.0,4.0,1.0,1985,unknown,bahria town karachi,fair,2.0,house,unknown,unknown,yes,36400000.0,17.41,2090255.22
+609.0,4.0,4.0,1.0,1994,lahore,dha phase 7,excellent,2.0,house,unknown,unknown,unknown,12300000.0,2.24,5498645.32
+1416.0,2.0,1.0,1.0,1991,lahore,dha phase 5,new,1.0,villa,unknown,yes,no,21300000.0,5.2,4095286.02
+5596.0,3.0,2.0,1.0,2005,faisalabad,people's colony,new,2.0,villa,no,unknown,yes,24100000.0,20.55,1172484.81
+4717.0,3.0,3.0,3.0,1992,karachi,clifton,fair,3.0,villa,no,yes,no,67800000.0,17.33,3913196.95
+3168.0,5.0,5.0,2.0,1999,islamabad,i-8,poor,3.0,villa,no,no,unknown,34000000.0,11.64,2921875.0
+1579.0,3.0,3.0,2.0,2004,karachi,gulistan-e-johar,excellent,1.0,house,no,unknown,no,22400000.0,5.8,3862191.26
+5774.0,6.0,5.0,1.0,2016,karachi,dha phase 6,new,3.0,villa,no,unknown,yes,121300000.0,21.21,5719418.95
+5118.0,4.0,4.0,2.0,2005,lahore,cantt,excellent,2.0,house,yes,yes,no,98900000.0,18.8,5260946.66
+3579.0,3.0,2.0,4.0,2003,islamabad,gulberg greens,needs renovation,2.0,house,yes,yes,yes,25900000.0,13.15,1970180.22
+962.0,4.0,5.0,1.0,1985,islamabad,f-8,needs renovation,2.0,house,yes,no,unknown,12200000.0,3.53,3452650.73
+2768.0,4.0,4.0,1.0,1999,islamabad,f-8,new,0.0,house,yes,yes,unknown,54500000.0,10.17,5360413.66
+699.0,6.0,5.0,2.0,1998,islamabad,f-6,excellent,1.0,house,unknown,yes,no,17600000.0,2.57,6854935.62
+1155.0,5.0,6.0,2.0,2012,islamabad,gulberg greens,poor,2.0,villa,yes,no,unknown,13600000.0,4.24,3205714.29
+881.0,4.0,4.0,3.0,2019,islamabad,f-7,excellent,3.0,villa,yes,no,yes,31800000.0,3.24,9826958.0
+4291.0,4.0,4.0,2.0,2012,rawalpindi,satellite town,excellent,1.0,house,no,no,unknown,37700000.0,15.76,2391942.44
+2589.0,4.0,5.0,2.0,1992,islamabad,b-17,fair,0.0,house,no,yes,no,8600000.0,9.51,904345.31
+5673.0,2.0,1.0,2.0,2006,karachi,scheme 33,new,0.0,house,yes,yes,yes,53500000.0,20.84,2567490.75
+2589.0,3.0,2.0,3.0,1994,karachi,pechs,excellent,3.0,villa,yes,no,no,70500000.0,9.51,7413528.39
+9218.0,4.0,3.0,2.0,2002,lahore,johar town,fair,2.0,house,yes,yes,unknown,77800000.0,33.86,2297792.36
+902.0,4.0,5.0,4.0,2005,lahore,dha phase 7,excellent,2.0,house,yes,no,unknown,20300000.0,3.31,6127134.15
+705.0,3.0,4.0,1.0,1988,rawalpindi,pwd,fair,0.0,villa,no,yes,unknown,5500000.0,2.59,2123936.17
+7115.0,5.0,5.0,2.0,1999,islamabad,f-6,poor,2.0,house,no,no,no,68000000.0,26.13,2601967.67
+3364.0,4.0,3.0,2.0,1989,karachi,north nazimabad,good,0.0,house,yes,yes,yes,35400000.0,12.36,2864937.57
+639.0,4.0,4.0,2.0,2022,karachi,north nazimabad,good,2.0,house,no,unknown,unknown,13900000.0,2.35,5922183.1
+8664.0,4.0,4.0,1.0,2009,karachi,dha phase 6,poor,2.0,house,unknown,no,yes,118300000.0,31.82,3717356.3
+6947.0,6.0,5.0,2.0,2005,islamabad,pwd,poor,1.0,house,no,no,no,33400000.0,25.52,1308931.91
+6229.0,5.0,6.0,1.0,2005,islamabad,dha phase 2,needs renovation,2.0,house,no,no,unknown,72200000.0,22.88,3155634.93
+4537.0,5.0,5.0,2.0,2005,karachi,dha phase 6,fair,2.0,house,no,unknown,unknown,64800000.0,16.66,3888428.48
+731.0,5.0,5.0,2.0,1993,rawalpindi,dha phase 2,good,1.0,house,unknown,yes,yes,9700000.0,2.69,3612619.7
+4691.0,4.0,3.0,2.0,2005,faisalabad,jinnah colony,excellent,3.0,house,yes,yes,no,32400000.0,17.23,1880387.98
+6845.0,1.0,2.0,2.0,2005,islamabad,pwd,fair,2.0,house,yes,yes,yes,51900000.0,25.14,2064247.63
+4790.0,3.0,3.0,3.0,1987,islamabad,f-6,needs renovation,3.0,villa,unknown,yes,unknown,54900000.0,17.59,3120360.13
+7171.0,5.0,6.0,2.0,2015,lahore,dha phase 6,excellent,2.0,house,unknown,unknown,no,141000000.0,26.34,5353123.69
+2391.0,4.0,5.0,2.0,2005,karachi,dha phase 6,fair,2.0,house,unknown,no,unknown,57900000.0,8.78,6592754.08
+1196.0,5.0,6.0,2.0,1995,faisalabad,gulberg colony,fair,1.0,house,yes,no,yes,7000000.0,4.39,1593436.45
+4571.0,4.0,4.0,1.0,1994,karachi,scheme 33,fair,1.0,house,yes,unknown,yes,29300000.0,16.79,1745115.95
+620.0,3.0,4.0,2.0,1995,karachi,pechs,good,2.0,house,yes,yes,unknown,11800000.0,2.28,5181532.26
+1060.0,3.0,3.0,2.0,2005,islamabad,pwd,good,0.0,villa,yes,unknown,no,13400000.0,3.89,3441650.94
+3499.0,5.0,6.0,2.0,2021,lahore,cantt,new,2.0,villa,no,yes,unknown,100900000.0,12.85,7850821.66
+1482.0,3.0,3.0,1.0,1985,islamabad,g-11,excellent,3.0,house,yes,yes,unknown,17200000.0,5.44,3159716.6
+1076.0,4.0,5.0,2.0,2005,islamabad,f-7,excellent,1.0,villa,no,no,unknown,32900000.0,3.95,8324372.68
+5226.0,3.0,3.0,1.0,2000,karachi,dha phase 8,new,1.0,villa,no,unknown,yes,70600000.0,19.2,3677927.67
+3398.0,5.0,5.0,1.0,1999,islamabad,g-10,good,2.0,house,no,no,yes,38900000.0,12.48,3116693.64
+4612.0,5.0,5.0,2.0,1988,islamabad,g-10,fair,2.0,house,unknown,no,yes,46800000.0,16.94,2762640.94
+9393.0,5.0,5.0,1.0,2020,karachi,dha phase 8,fair,1.0,house,yes,unknown,yes,158200000.0,34.5,4585324.18
+1490.0,4.0,4.0,1.0,2003,islamabad,g-11,good,2.0,house,unknown,no,unknown,24000000.0,5.47,4385234.9
+3573.0,3.0,3.0,3.0,2024,lahore,model town,needs renovation,2.0,house,yes,unknown,unknown,44800000.0,13.12,3413602.02
+3395.0,6.0,7.0,3.0,2006,islamabad,i-8,fair,1.0,house,yes,no,no,47800000.0,12.47,3833151.69
+5535.0,3.0,2.0,1.0,1995,lahore,johar town,fair,1.0,house,no,no,unknown,33500000.0,20.33,1647764.23
+1941.0,5.0,4.0,2.0,2005,islamabad,e-7,poor,4.0,house,yes,no,yes,32300000.0,7.13,4530486.86
+8624.0,3.0,3.0,2.0,2022,rawalpindi,bahria town,good,1.0,villa,no,unknown,no,70200000.0,31.68,2216135.2
+1799.0,5.0,4.0,3.0,2012,karachi,dha phase 8,excellent,3.0,house,yes,unknown,unknown,28700000.0,6.61,4343287.94
+1393.0,3.0,3.0,2.0,1989,karachi,gulshan-e-iqbal,needs renovation,2.0,house,no,no,no,11100000.0,5.12,2169400.57
+3393.0,4.0,4.0,1.0,2016,islamabad,g-11,new,2.0,villa,unknown,unknown,yes,62900000.0,12.46,5047015.92
+9121.0,2.0,3.0,1.0,1991,karachi,dha phase 7,good,2.0,house,yes,yes,yes,123800000.0,33.5,3695269.16
+9556.0,2.0,1.0,4.0,1995,karachi,dha phase 8,poor,1.0,house,yes,unknown,no,88300000.0,35.1,2515662.93
+5722.0,4.0,3.0,3.0,2005,islamabad,f-7,poor,0.0,villa,no,yes,unknown,78000000.0,21.02,3711202.38
+4192.0,4.0,4.0,1.0,2005,unknown,malir,fair,1.0,house,unknown,yes,no,28700000.0,15.4,1863925.33
+3771.0,4.0,3.0,2.0,2001,lahore,johar town,excellent,1.0,house,yes,unknown,yes,46600000.0,13.85,3364319.81
+1182.0,4.0,4.0,2.0,2016,lahore,garden town,new,0.0,house,yes,no,unknown,19300000.0,4.34,4445368.02
+4618.0,5.0,4.0,1.0,2005,karachi,pechs,fair,2.0,house,no,unknown,yes,64300000.0,16.96,3790748.16
+1441.0,5.0,4.0,1.0,2019,karachi,bahria town karachi,good,1.0,villa,no,unknown,no,21300000.0,5.29,4024236.64
+1272.0,3.0,4.0,2.0,1995,karachi,scheme 33,excellent,0.0,villa,no,yes,yes,11700000.0,4.67,2504186.32
+2100.0,3.0,2.0,1.0,2004,islamabad,e-7,fair,0.0,house,no,unknown,unknown,41400000.0,7.71,5367214.29
+865.0,5.0,4.0,2.0,2005,karachi,dha phase 8,needs renovation,0.0,villa,unknown,yes,unknown,12900000.0,3.18,4060144.51
+4917.0,5.0,5.0,1.0,2011,lahore,dha phase 6,good,0.0,house,yes,unknown,no,117700000.0,18.06,6516946.31
+612.0,7.0,7.0,1.0,2021,unknown,pechs,good,1.0,house,unknown,no,yes,16900000.0,2.25,7518014.71
+2589.0,6.0,6.0,1.0,2020,lahore,johar town,poor,3.0,villa,unknown,no,no,46500000.0,9.51,4889774.04
+754.0,4.0,5.0,3.0,1987,unknown,bahria town karachi,excellent,1.0,villa,yes,yes,no,9100000.0,2.77,3285775.86
+6877.0,5.0,6.0,2.0,2005,karachi,bahria town karachi,good,0.0,house,no,unknown,unknown,57200000.0,25.26,2264461.25
+6594.0,4.0,4.0,2.0,2022,lahore,dha phase 7,excellent,1.0,house,unknown,yes,yes,113400000.0,24.22,4682006.37
+1617.0,6.0,5.0,2.0,2025,islamabad,bahria town,fair,1.0,villa,no,unknown,no,28200000.0,5.94,4747959.18
+5515.0,4.0,4.0,1.0,2002,karachi,scheme 33,excellent,2.0,house,unknown,yes,no,48200000.0,20.26,2379410.7
+1275.0,3.0,3.0,1.0,2005,lahore,bahria town,fair,0.0,house,yes,yes,unknown,16700000.0,4.68,3565941.18
+2494.0,6.0,6.0,3.0,1994,lahore,faisal town,excellent,2.0,house,unknown,no,no,25700000.0,9.16,2805463.11
+630.0,1.0,1.0,2.0,2022,rawalpindi,dha phase 2,new,1.0,villa,unknown,no,no,10600000.0,2.31,4580714.29
+2862.0,5.0,5.0,3.0,1999,islamabad,gulberg greens,excellent,1.0,villa,no,no,no,32100000.0,10.51,3053537.74
+1898.0,1.0,2.0,1.0,1989,islamabad,b-17,excellent,1.0,villa,unknown,yes,no,18400000.0,6.97,2639304.53
+885.0,5.0,4.0,1.0,2000,karachi,dha phase 8,excellent,2.0,house,unknown,no,no,22200000.0,3.25,6829322.03
+592.0,4.0,4.0,1.0,2010,islamabad,gulberg greens,fair,1.0,house,yes,unknown,unknown,7300000.0,2.17,3357136.82
+2589.0,7.0,6.0,2.0,1996,karachi,dha phase 6,good,3.0,house,unknown,yes,yes,24000000.0,9.51,2523754.35
+2111.0,5.0,4.0,2.0,2022,karachi,dha phase 7,poor,1.0,house,unknown,no,yes,36200000.0,7.75,4668616.77
+2610.0,2.0,3.0,1.0,2009,islamabad,gulberg greens,excellent,1.0,house,yes,no,no,34100000.0,9.59,3556982.76
+1485.0,3.0,4.0,1.0,2005,lahore,dha phase 5,fair,2.0,villa,no,unknown,no,27300000.0,5.45,5005000.0
+8362.0,1.0,1.0,4.0,2005,unknown,state life housing society,good,1.0,house,yes,unknown,unknown,61600000.0,30.71,2005572.83
+2620.0,5.0,5.0,1.0,2005,karachi,dha phase 8,good,2.0,house,yes,yes,no,71000000.0,9.62,7377767.18
+3734.0,5.0,5.0,3.0,1999,islamabad,bahria town,excellent,1.0,house,unknown,unknown,unknown,42000000.0,13.72,3062265.67
+1829.0,5.0,4.0,2.0,2014,karachi,dha phase 5,poor,2.0,villa,unknown,yes,unknown,31200000.0,6.72,4644177.15
+1875.0,4.0,4.0,2.0,2000,lahore,faisal town,good,2.0,house,no,unknown,unknown,16600000.0,6.89,2410320.0
+869.0,4.0,4.0,3.0,1995,karachi,gulshan-e-iqbal,fair,2.0,house,yes,yes,no,11700000.0,3.19,3665506.33
+805.0,3.0,3.0,2.0,1994,lahore,dha phase 7,good,1.0,villa,no,yes,no,15800000.0,2.96,5343540.37
+5414.0,3.0,3.0,2.0,2005,karachi,bahria town karachi,fair,3.0,villa,yes,unknown,yes,49100000.0,19.89,2469057.07
+3368.0,4.0,5.0,2.0,2005,islamabad,bahria town,good,2.0,house,unknown,yes,yes,52000000.0,12.37,4203384.8
+5024.0,1.0,1.0,2.0,2005,lahore,dha phase 5,excellent,2.0,house,unknown,yes,unknown,62200000.0,18.45,3370611.07
+7042.0,4.0,5.0,1.0,2023,faisalabad,madina town,fair,2.0,house,unknown,yes,yes,39100000.0,25.87,1511640.87
+9153.0,3.0,4.0,1.0,2005,islamabad,bahria town,excellent,2.0,villa,no,unknown,no,93400000.0,33.62,2778121.93
+2310.0,2.0,1.0,4.0,2014,faisalabad,people's colony,fair,3.0,house,yes,unknown,yes,14700000.0,8.48,1732500.0
+1066.0,4.0,3.0,2.0,2005,islamabad,bahria town,needs renovation,4.0,house,yes,yes,no,9800000.0,3.92,2502861.16
+5010.0,5.0,4.0,2.0,1989,faisalabad,jinnah colony,excellent,1.0,house,no,no,no,24700000.0,18.4,1342230.54
+5410.0,4.0,5.0,2.0,2019,karachi,dha phase 5,poor,2.0,villa,no,unknown,unknown,94100000.0,19.87,4735439.0
+9022.0,4.0,5.0,1.0,2017,lahore,dha phase 7,good,1.0,house,unknown,yes,no,123400000.0,33.14,3723747.51
+3297.0,3.0,2.0,2.0,1987,islamabad,pwd,needs renovation,1.0,house,no,no,no,18500000.0,12.11,1527638.76
+2318.0,4.0,4.0,2.0,1986,islamabad,e-7,poor,3.0,villa,unknown,no,yes,28600000.0,8.51,3359081.1
+1290.0,5.0,5.0,2.0,1990,faisalabad,people's colony,fair,3.0,house,no,no,unknown,9100000.0,4.74,1920523.26
+4664.0,4.0,5.0,3.0,2009,lahore,state life housing society,good,0.0,house,yes,yes,yes,36100000.0,17.13,2107252.36
+4772.0,5.0,6.0,1.0,2014,islamabad,g-10,excellent,1.0,villa,yes,yes,yes,75300000.0,17.53,4295981.77
+1179.0,2.0,2.0,1.0,2011,islamabad,i-8,fair,3.0,house,unknown,unknown,unknown,13900000.0,4.33,3209732.82
+942.0,4.0,5.0,1.0,2000,islamabad,e-7,needs renovation,2.0,house,no,unknown,no,14900000.0,3.46,4306289.81
+2903.0,3.0,3.0,1.0,2012,lahore,cantt,good,1.0,house,unknown,no,unknown,57600000.0,10.66,5401860.14
+4657.0,2.0,3.0,1.0,2005,karachi,dha phase 5,excellent,0.0,villa,yes,unknown,yes,116700000.0,17.11,6822326.61
+739.0,5.0,5.0,2.0,1989,karachi,pechs,excellent,2.0,house,no,unknown,yes,16800000.0,2.71,6189174.56
+2630.0,4.0,4.0,2.0,2002,rawalpindi,chaklala,good,3.0,house,no,yes,no,24900000.0,9.66,2577576.05
+4707.0,4.0,5.0,2.0,2005,faisalabad,people's colony,excellent,1.0,house,unknown,no,no,27000000.0,17.29,1561663.48
+3482.0,4.0,4.0,2.0,2002,karachi,dha phase 8,fair,0.0,house,no,yes,unknown,79000000.0,12.79,6176838.02
+1567.0,7.0,7.0,2.0,2010,rawalpindi,saddar,excellent,1.0,house,yes,unknown,yes,15600000.0,5.76,2710338.23
+586.0,4.0,3.0,1.0,2005,karachi,pechs,excellent,1.0,villa,no,yes,yes,10000000.0,2.15,4645904.44
+2348.0,4.0,4.0,3.0,2018,faisalabad,canal road,needs renovation,3.0,house,yes,no,unknown,14200000.0,8.62,1646486.37
+1709.0,3.0,2.0,3.0,2012,faisalabad,wapda city,fair,2.0,house,yes,yes,unknown,12600000.0,6.28,2007226.45
+1436.0,3.0,3.0,3.0,1991,rawalpindi,chaklala,excellent,2.0,house,no,unknown,yes,14300000.0,5.27,2711124.65
+1681.0,3.0,4.0,1.0,2013,rawalpindi,pwd,good,1.0,house,yes,unknown,unknown,13300000.0,6.17,2154030.34
+6532.0,2.0,3.0,2.0,2005,karachi,bahria town karachi,good,2.0,house,no,yes,no,54800000.0,23.99,2284032.46
+9506.0,4.0,4.0,2.0,2007,karachi,dha phase 6,fair,1.0,house,no,no,yes,154600000.0,34.92,4427714.08
+690.0,3.0,2.0,2.0,2005,islamabad,e-7,good,2.0,house,unknown,yes,unknown,22600000.0,2.53,8917173.91
+2909.0,6.0,5.0,2.0,2001,rawalpindi,saddar,good,2.0,villa,yes,no,unknown,23400000.0,10.69,2189979.37
+1709.0,4.0,5.0,1.0,2025,karachi,gulshan-e-iqbal,needs renovation,2.0,house,unknown,no,no,16300000.0,6.28,2596650.09
+50.0,5.0,6.0,2.0,1988,lahore,askari 10,excellent,1.0,villa,no,unknown,no,100000.0,0.18,544500.0
+2242.0,4.0,6.0,1.0,2010,rawalpindi,dha phase 2,good,2.0,house,no,no,no,26000000.0,8.24,3157225.69
+2511.0,7.0,8.0,2.0,2005,karachi,dha phase 8,good,3.0,house,yes,yes,yes,75000000.0,9.22,8131720.43
+954.0,3.0,4.0,2.0,2005,islamabad,i-8,excellent,2.0,house,no,no,unknown,22900000.0,3.5,6535141.51
+1207.0,5.0,5.0,1.0,1986,lahore,gulberg,excellent,1.0,villa,no,no,unknown,19400000.0,4.43,4375849.21
+4808.0,2.0,3.0,1.0,2000,rawalpindi,adiala road,poor,2.0,house,yes,no,unknown,15300000.0,17.66,866352.95
+2589.0,2.0,2.0,2.0,1988,karachi,dha phase 7,good,0.0,house,unknown,unknown,unknown,60300000.0,9.51,6340932.79
+4760.0,4.0,4.0,1.0,2005,lahore,raiwind road,good,2.0,house,unknown,yes,no,37400000.0,17.48,2139107.14
+1143.0,5.0,6.0,1.0,2005,islamabad,f-8,needs renovation,1.0,villa,unknown,unknown,unknown,18800000.0,4.2,4477952.76
+750.0,4.0,4.0,2.0,1985,karachi,dha phase 5,needs renovation,3.0,house,unknown,yes,unknown,12000000.0,2.75,4356000.0
+8853.0,4.0,4.0,2.0,2011,lahore,garden town,excellent,1.0,house,yes,unknown,no,116900000.0,32.52,3594942.39
+3360.0,5.0,5.0,2.0,2005,rawalpindi,askari,poor,1.0,house,no,unknown,yes,28700000.0,12.34,2325468.75
+1805.0,4.0,4.0,1.0,2019,lahore,dha phase 5,new,2.0,house,no,unknown,yes,43400000.0,6.63,6546066.48
+1301.0,4.0,3.0,1.0,1994,rawalpindi,pwd,good,1.0,house,yes,no,no,28700000.0,4.78,6005822.44
+2386.0,1.0,2.0,2.0,1997,karachi,malir,needs renovation,1.0,house,no,yes,unknown,11000000.0,8.76,1255134.12
+1531.0,5.0,5.0,2.0,2005,lahore,raiwind road,excellent,2.0,villa,yes,unknown,no,19600000.0,5.62,3485369.04
+8548.0,2.0,3.0,1.0,1993,faisalabad,people's colony,good,1.0,villa,no,no,no,34900000.0,31.4,1111549.49
+4368.0,3.0,2.0,2.0,1986,lahore,wapda town,excellent,3.0,house,unknown,no,no,35900000.0,16.04,2237585.85
+2179.0,2.0,1.0,2.0,1999,islamabad,e-7,needs renovation,1.0,house,unknown,unknown,yes,18800000.0,8.0,2348921.52
+3709.0,4.0,4.0,2.0,1986,rawalpindi,saddar,new,2.0,villa,yes,no,no,25100000.0,13.62,1842403.61
+3111.0,5.0,6.0,3.0,2005,lahore,dha phase 6,poor,2.0,house,no,yes,yes,54900000.0,11.43,4804411.76
+5255.0,3.0,4.0,2.0,2014,rawalpindi,saddar,new,2.0,villa,no,no,no,36500000.0,19.3,1890984.78
+610.0,4.0,4.0,3.0,2009,lahore,dha phase 8,fair,3.0,villa,yes,no,no,12200000.0,2.24,5445000.0
+4150.0,5.0,6.0,1.0,2005,karachi,dha phase 7,poor,2.0,villa,yes,yes,no,52500000.0,15.24,3444126.51
+879.0,1.0,1.0,3.0,2015,lahore,dha phase 8,new,0.0,house,yes,yes,no,18100000.0,3.23,5606058.02
+3354.0,4.0,3.0,2.0,1994,rawalpindi,bahria town,excellent,0.0,house,no,yes,yes,24000000.0,12.32,1948121.65
+3691.0,7.0,6.0,1.0,2005,karachi,bahria town karachi,new,1.0,house,no,unknown,yes,48900000.0,13.56,3606888.38
+3782.0,4.0,4.0,2.0,1990,karachi,gulistan-e-johar,fair,2.0,house,yes,yes,no,35000000.0,13.89,2519500.26
+4666.0,4.0,4.0,1.0,2021,lahore,wapda town,good,1.0,house,yes,unknown,no,66400000.0,17.14,3874282.04
+2589.0,3.0,3.0,2.0,2005,faisalabad,jinnah colony,excellent,1.0,villa,no,unknown,yes,23100000.0,9.51,2429113.56
+1349.0,2.0,2.0,2.0,2022,lahore,raiwind road,excellent,0.0,house,no,unknown,no,13000000.0,4.96,2623610.08
+2589.0,3.0,3.0,2.0,2004,islamabad,pwd,excellent,0.0,house,unknown,yes,unknown,30900000.0,9.51,3249333.72
+1914.0,5.0,5.0,4.0,2005,rawalpindi,askari,new,0.0,house,yes,yes,no,28000000.0,7.03,3982758.62
+585.0,3.0,4.0,3.0,1997,faisalabad,wapda city,needs renovation,0.0,house,yes,unknown,no,4800000.0,2.15,2233846.15
+2522.0,3.0,2.0,2.0,1986,karachi,bahria town karachi,good,2.0,villa,no,no,no,21700000.0,9.26,2342515.86
+1198.0,3.0,3.0,2.0,2002,lahore,dha phase 5,fair,3.0,house,yes,no,no,25000000.0,4.4,5681343.91
+3157.0,4.0,4.0,2.0,2005,karachi,malir,excellent,2.0,house,yes,yes,no,29200000.0,11.6,2518118.47
+5387.0,2.0,3.0,4.0,2005,lahore,garden town,fair,1.0,house,no,yes,unknown,46100000.0,19.79,2329817.15
+595.0,3.0,3.0,1.0,2005,faisalabad,gulberg colony,fair,2.0,house,unknown,no,unknown,6500000.0,2.19,2974159.66
+5133.0,4.0,4.0,2.0,2012,lahore,wapda town,fair,4.0,villa,no,no,unknown,61100000.0,18.85,3240692.58
+3848.0,5.0,5.0,2.0,2002,karachi,pechs,excellent,0.0,villa,yes,yes,unknown,58600000.0,14.13,4146010.91
+2589.0,6.0,6.0,2.0,1985,karachi,gulshan-e-iqbal,needs renovation,1.0,house,unknown,no,no,9600000.0,9.51,1009501.74
+945.0,3.0,3.0,1.0,2011,karachi,dha phase 7,good,0.0,house,unknown,unknown,unknown,24500000.0,3.47,7058333.33
+1341.0,5.0,6.0,2.0,2005,karachi,scheme 33,good,1.0,house,yes,no,unknown,16500000.0,4.93,3349832.21
+885.0,6.0,7.0,3.0,1990,islamabad,g-10,good,3.0,house,no,yes,unknown,17900000.0,3.25,5506525.42
+597.0,3.0,3.0,1.0,1988,faisalabad,madina town,good,0.0,house,no,no,unknown,5000000.0,2.19,2280150.75
+2646.0,4.0,4.0,1.0,2005,islamabad,g-10,poor,3.0,villa,unknown,yes,unknown,32600000.0,9.72,3354251.7
+1513.0,2.0,2.0,1.0,2005,karachi,dha phase 8,poor,2.0,villa,yes,no,no,19600000.0,5.56,3526834.1
+1271.0,3.0,4.0,3.0,2005,lahore,askari 10,good,3.0,house,no,unknown,no,26700000.0,4.67,5719177.81
+9457.0,4.0,4.0,3.0,2014,islamabad,f-8,excellent,1.0,villa,yes,unknown,unknown,158300000.0,34.74,4557171.94
+936.0,4.0,5.0,1.0,2001,rawalpindi,satellite town,fair,1.0,house,unknown,unknown,unknown,8400000.0,3.44,2443269.23
+1492.0,3.0,2.0,1.0,2002,lahore,model town,good,1.0,villa,no,no,unknown,27800000.0,5.48,5072754.69
+2215.0,4.0,6.0,3.0,2005,rawalpindi,dha phase 2,excellent,0.0,house,unknown,unknown,no,34200000.0,8.14,4203589.16
+5329.0,3.0,3.0,3.0,2024,islamabad,bahria town,new,1.0,house,unknown,no,unknown,87700000.0,19.57,4480451.3
+1038.0,3.0,3.0,1.0,2011,lahore,faisal town,good,0.0,house,unknown,no,yes,28700000.0,3.81,7527528.9
+923.0,4.0,4.0,3.0,1996,karachi,dha phase 5,excellent,1.0,house,no,no,yes,22200000.0,3.39,6548158.18
+616.0,6.0,6.0,2.0,2005,karachi,dha phase 7,good,2.0,house,yes,yes,unknown,17900000.0,2.26,7911160.71
+6531.0,3.0,3.0,1.0,2013,lahore,model town,good,3.0,house,no,unknown,unknown,131400000.0,23.99,5477514.93
+5638.0,2.0,2.0,2.0,2004,lahore,askari 10,poor,2.0,house,no,unknown,unknown,55900000.0,20.71,2699321.57
+763.0,3.0,2.0,4.0,2005,islamabad,i-8,good,1.0,villa,no,no,yes,14900000.0,2.8,5316546.53
+3321.0,3.0,3.0,4.0,2018,karachi,bahria town karachi,poor,1.0,house,yes,unknown,unknown,36100000.0,12.2,2959417.34
+4236.0,5.0,5.0,2.0,2005,rawalpindi,dha phase 2,new,0.0,house,unknown,no,yes,39300000.0,15.56,2525832.15
+6625.0,5.0,4.0,3.0,2006,lahore,garden town,good,0.0,villa,yes,no,unknown,70100000.0,24.33,2880713.21
+7127.0,3.0,4.0,2.0,2011,karachi,gulistan-e-johar,fair,2.0,house,no,no,yes,63300000.0,26.18,2418047.57
+3072.0,4.0,5.0,1.0,2005,islamabad,f-8,excellent,2.0,house,unknown,unknown,no,55800000.0,11.28,4945166.02
+582.0,3.0,2.0,2.0,2019,rawalpindi,satellite town,fair,0.0,villa,yes,no,unknown,7000000.0,2.14,3274484.54
+1813.0,4.0,3.0,3.0,1985,faisalabad,wapda city,excellent,1.0,house,no,no,no,13300000.0,6.66,1997200.77
+5658.0,1.0,1.0,2.0,2005,islamabad,pwd,excellent,1.0,house,yes,unknown,yes,54400000.0,20.78,2617603.39
+50.0,2.0,1.0,2.0,2011,rawalpindi,saddar,fair,1.0,house,no,unknown,yes,5000000000.0,0.18,27225000000.0
+770.0,3.0,2.0,1.0,2017,lahore,state life housing society,good,2.0,house,yes,unknown,no,9500000.0,2.83,3358928.57
+4990.0,3.0,2.0,2.0,2005,islamabad,g-11,good,2.0,house,yes,unknown,no,28700000.0,18.33,1565846.69
+1274.0,3.0,3.0,2.0,1986,islamabad,dha phase 2,good,1.0,house,no,yes,no,14600000.0,4.68,3119976.45
+2589.0,3.0,3.0,1.0,2010,islamabad,gulberg greens,good,2.0,house,yes,no,yes,33800000.0,9.51,3554287.37
+1377.0,3.0,3.0,3.0,1996,lahore,faisal town,new,1.0,house,unknown,no,yes,20300000.0,5.06,4013562.09
+1191.0,6.0,5.0,1.0,2001,lahore,cantt,poor,2.0,villa,yes,no,no,17300000.0,4.37,3954596.98
+3571.0,5.0,4.0,1.0,2008,lahore,dha phase 5,good,1.0,house,unknown,unknown,unknown,54600000.0,13.12,4162657.52
+1324.0,5.0,5.0,3.0,1993,karachi,malir,good,1.0,house,yes,no,unknown,15100000.0,4.86,3104966.01
+2229.0,5.0,6.0,3.0,1987,karachi,gulshan-e-iqbal,excellent,0.0,villa,yes,no,unknown,24900000.0,8.19,3041285.33
+9439.0,3.0,4.0,2.0,2023,karachi,clifton,excellent,0.0,house,yes,yes,unknown,240000000.0,34.67,6922343.47
+4681.0,5.0,5.0,2.0,2000,karachi,dha phase 5,fair,1.0,house,unknown,yes,no,57500000.0,17.19,3344237.34
+3362.0,4.0,4.0,2.0,2018,islamabad,e-7,excellent,1.0,house,yes,unknown,no,109900000.0,12.35,8899546.4
+1935.0,5.0,5.0,3.0,2005,lahore,faisal town,excellent,2.0,house,unknown,yes,no,32000000.0,7.11,4502325.58
+6803.0,5.0,5.0,1.0,1997,faisalabad,canal road,good,0.0,house,unknown,unknown,unknown,31100000.0,24.99,1244594.3
+3772.0,5.0,6.0,2.0,2005,unknown,dha phase 8,new,1.0,villa,yes,yes,no,66000000.0,13.85,4763653.23
+691.0,3.0,4.0,1.0,1999,karachi,north nazimabad,fair,0.0,house,no,yes,yes,8700000.0,2.54,3427749.64
+2159.0,2.0,2.0,1.0,1992,islamabad,e-7,excellent,3.0,house,no,yes,yes,42800000.0,7.93,5397081.98
+8980.0,3.0,3.0,1.0,2005,islamabad,i-8,good,1.0,house,yes,yes,unknown,113800000.0,32.98,3450116.93
+6944.0,4.0,4.0,2.0,2018,rawalpindi,pwd,needs renovation,1.0,villa,unknown,yes,unknown,25600000.0,25.51,1003686.64
+4423.0,5.0,6.0,2.0,1998,lahore,wapda town,good,2.0,house,yes,unknown,unknown,33100000.0,16.25,2037412.39
+1477.0,2.0,1.0,1.0,1988,islamabad,f-7,good,2.0,house,no,unknown,yes,24100000.0,5.43,4442264.73
+5038.0,6.0,5.0,2.0,1996,lahore,askari 10,poor,1.0,house,yes,unknown,no,33200000.0,18.51,1794104.8
+4311.0,3.0,3.0,1.0,2005,islamabad,gulberg greens,excellent,1.0,house,unknown,no,no,36300000.0,15.83,2292432.15
+1367.0,3.0,3.0,4.0,1985,islamabad,pwd,fair,3.0,house,no,unknown,no,13800000.0,5.02,2748390.64
+3879.0,4.0,5.0,3.0,1988,lahore,johar town,fair,1.0,house,yes,unknown,yes,27600000.0,14.25,1937122.97
+1609.0,2.0,1.0,2.0,2005,karachi,clifton,new,2.0,house,no,yes,unknown,52000000.0,5.91,8798632.69
+871.0,4.0,4.0,2.0,2019,islamabad,f-8,needs renovation,0.0,house,no,no,unknown,17500000.0,3.2,5470005.74
+600.0,4.0,5.0,1.0,2005,karachi,dha phase 6,good,1.0,house,yes,no,unknown,17300000.0,2.2,7849875.0
+4678.0,3.0,3.0,1.0,2005,lahore,dha phase 5,good,1.0,house,no,yes,no,46100000.0,17.18,2682925.4
+1470.0,1.0,1.0,1.0,1991,karachi,gulshan-e-iqbal,excellent,0.0,house,yes,no,yes,13100000.0,5.4,2426173.47
+8748.0,3.0,4.0,2.0,1986,islamabad,pwd,needs renovation,1.0,house,yes,no,unknown,33500000.0,32.13,1042566.87
+2812.0,3.0,4.0,3.0,2023,karachi,dha phase 5,good,2.0,house,unknown,yes,yes,69600000.0,10.33,6738477.95
+4566.0,1.0,1.0,1.0,1996,karachi,gulistan-e-johar,poor,0.0,villa,no,no,yes,23600000.0,16.77,1407161.63
+563.0,4.0,3.0,2.0,2005,islamabad,g-11,new,2.0,house,no,no,unknown,14100000.0,2.07,6818339.25
+4220.0,4.0,4.0,1.0,2011,lahore,dha phase 5,good,1.0,house,no,unknown,no,79100000.0,15.5,5103074.64
+1060.0,3.0,4.0,2.0,1985,lahore,model town,excellent,1.0,house,yes,yes,yes,17000000.0,3.89,4366273.58
+3217.0,5.0,5.0,2.0,2011,lahore,state life housing society,fair,0.0,house,no,unknown,no,30600000.0,11.82,2589633.2
+5799.0,5.0,6.0,2.0,2009,rawalpindi,chaklala,good,1.0,house,unknown,no,no,35100000.0,21.3,1647866.01
+1093.0,5.0,5.0,1.0,2005,karachi,dha phase 6,new,2.0,house,unknown,yes,yes,32200000.0,4.01,8020539.8
+3161.0,4.0,3.0,1.0,2015,karachi,scheme 33,good,1.0,house,no,unknown,no,30600000.0,11.61,2635510.91
+2271.0,5.0,4.0,2.0,2005,karachi,north nazimabad,good,1.0,villa,no,yes,yes,38500000.0,8.34,4615422.72
+1093.0,4.0,4.0,2.0,2005,lahore,model town,excellent,0.0,villa,no,yes,no,22400000.0,4.01,5579505.95
+912.0,5.0,6.0,1.0,2010,karachi,dha phase 8,excellent,0.0,house,yes,no,yes,19200000.0,3.35,5731578.95
+2762.0,2.0,2.0,3.0,2018,faisalabad,madina town,good,2.0,house,no,unknown,yes,22100000.0,10.15,2178394.28
+2198.0,4.0,4.0,1.0,2006,unknown,malir,good,1.0,house,unknown,yes,yes,20000000.0,8.07,2477252.05
+1327.0,4.0,5.0,2.0,2015,karachi,scheme 33,fair,3.0,villa,no,unknown,yes,15800000.0,4.87,3241559.91
+561.0,5.0,4.0,3.0,2022,lahore,dha phase 6,good,2.0,house,yes,unknown,yes,24500000.0,2.06,11889705.88
+8626.0,4.0,4.0,2.0,1985,rawalpindi,dha phase 2,good,2.0,villa,yes,unknown,no,56800000.0,31.68,1792696.5
+4301.0,4.0,3.0,1.0,2005,karachi,clifton,good,2.0,house,no,yes,no,70800000.0,15.8,4481585.68
+897.0,2.0,2.0,2.0,1995,lahore,dha phase 5,good,0.0,house,unknown,unknown,no,12300000.0,3.29,3733193.98
+1450.0,5.0,4.0,1.0,1995,lahore,dha phase 8,good,1.0,villa,yes,unknown,yes,23700000.0,5.33,4449879.31
+3367.0,4.0,4.0,3.0,2005,karachi,pechs,good,1.0,house,unknown,yes,yes,52200000.0,12.37,4220804.87
+2379.0,4.0,3.0,1.0,2011,karachi,dha phase 7,fair,4.0,house,yes,unknown,unknown,40500000.0,8.74,4634773.01
+3774.0,5.0,5.0,2.0,1994,rawalpindi,bahria town,fair,1.0,house,unknown,no,yes,26700000.0,13.86,1926093.0
+8363.0,5.0,4.0,2.0,2014,karachi,bahria town karachi,poor,0.0,villa,no,yes,no,54700000.0,30.72,1780709.67
+5274.0,4.0,5.0,1.0,1985,lahore,model town,good,2.0,house,yes,yes,yes,61400000.0,19.37,3169539.25
+1525.0,4.0,5.0,1.0,2005,rawalpindi,dha phase 2,excellent,1.0,house,no,unknown,no,18500000.0,5.6,3302704.92
+780.0,4.0,4.0,1.0,2013,karachi,bahria town karachi,fair,0.0,house,unknown,yes,unknown,8300000.0,2.87,2897019.23
+555.0,5.0,6.0,2.0,2007,karachi,malir,new,2.0,villa,yes,unknown,unknown,11100000.0,2.04,5445000.0
+2381.0,4.0,5.0,2.0,2005,lahore,model town,excellent,2.0,house,unknown,no,yes,57100000.0,8.75,6528968.92
+1505.0,4.0,5.0,2.0,1989,islamabad,i-8,new,1.0,villa,no,unknown,unknown,21400000.0,5.53,3871196.01
+856.0,4.0,4.0,1.0,1989,karachi,dha phase 8,fair,2.0,house,unknown,no,unknown,17600000.0,3.14,5597663.55
+9447.0,5.0,5.0,1.0,2012,karachi,dha phase 8,poor,1.0,villa,yes,no,unknown,139400000.0,34.7,4017322.96
+1524.0,4.0,4.0,2.0,1999,islamabad,pwd,good,2.0,house,unknown,yes,no,18900000.0,5.6,3376328.74
+3192.0,4.0,5.0,1.0,2005,lahore,wapda town,new,1.0,house,no,unknown,yes,40100000.0,11.72,3420183.27
+2899.0,3.0,4.0,3.0,2006,rawalpindi,satellite town,excellent,1.0,villa,no,no,unknown,25000000.0,10.65,2347792.34
+8594.0,4.0,3.0,3.0,2005,lahore,raiwind road,poor,2.0,house,no,yes,unknown,55800000.0,31.57,1767692.58
+1831.0,3.0,3.0,2.0,2004,islamabad,pwd,new,1.0,house,yes,no,yes,21700000.0,6.73,3226556.53
+5570.0,4.0,5.0,2.0,2004,islamabad,e-7,poor,0.0,villa,yes,unknown,no,68400000.0,20.46,3343249.55
+1063.0,2.0,1.0,2.0,2005,faisalabad,canal road,needs renovation,1.0,house,unknown,no,unknown,5900000.0,3.9,1511077.14
+556.0,4.0,4.0,2.0,2007,islamabad,f-7,fair,1.0,house,unknown,yes,no,14400000.0,2.04,7051079.14
+578.0,4.0,4.0,1.0,2005,lahore,wapda town,good,1.0,house,yes,yes,unknown,6300000.0,2.12,2967430.8
+582.0,3.0,4.0,1.0,2025,lahore,askari 10,fair,2.0,house,unknown,no,yes,12900000.0,2.14,6034407.22
+1037.0,6.0,6.0,1.0,1996,lahore,model town,good,2.0,villa,unknown,unknown,yes,28700000.0,3.81,7534787.85
+1141.0,3.0,4.0,4.0,1994,karachi,scheme 33,poor,3.0,house,no,yes,no,10000000.0,4.19,2386064.86
+1379.0,4.0,3.0,1.0,2013,karachi,scheme 33,excellent,2.0,house,yes,yes,yes,15700000.0,5.07,3099583.03
+1056.0,4.0,3.0,2.0,2025,karachi,gulshan-e-iqbal,excellent,1.0,villa,yes,yes,yes,22600000.0,3.88,5826562.5
+571.0,7.0,7.0,1.0,2006,faisalabad,wapda city,fair,1.0,house,yes,yes,unknown,7900000.0,2.1,3766681.26
+2321.0,3.0,2.0,2.0,1999,rawalpindi,askari,good,0.0,house,unknown,no,no,18600000.0,8.53,2181753.55
+1103.0,7.0,6.0,1.0,2007,islamabad,g-11,good,3.0,villa,unknown,no,yes,18300000.0,4.05,4516931.1
+4343.0,3.0,4.0,2.0,1995,lahore,dha phase 5,good,2.0,house,yes,yes,no,63700000.0,15.95,3993167.17
+5395.0,5.0,5.0,2.0,1991,islamabad,i-8,fair,1.0,house,yes,unknown,unknown,54800000.0,19.82,2765393.88
+2913.0,5.0,5.0,1.0,2005,lahore,gulberg,good,2.0,house,no,yes,yes,59200000.0,10.7,5532852.73
+3652.0,2.0,3.0,1.0,2009,lahore,johar town,excellent,2.0,house,yes,unknown,unknown,41000000.0,13.41,3056475.9
+8419.0,3.0,2.0,1.0,2025,islamabad,bahria town,poor,0.0,villa,yes,yes,unknown,59900000.0,30.92,1937020.43
+2279.0,4.0,5.0,4.0,2005,lahore,wapda town,good,1.0,house,unknown,yes,unknown,24000000.0,8.37,2867046.95
+2152.0,3.0,3.0,1.0,2025,rawalpindi,saddar,good,2.0,house,unknown,yes,yes,19600000.0,7.9,2479600.37
+946.0,4.0,3.0,2.0,2020,faisalabad,madina town,good,2.0,house,yes,no,yes,12600000.0,3.47,3626162.79
+8426.0,4.0,4.0,2.0,2024,islamabad,g-10,good,2.0,house,yes,no,unknown,126900000.0,30.95,4100228.46
+8494.0,4.0,5.0,2.0,1992,lahore,dha phase 5,fair,0.0,villa,no,no,no,84100000.0,31.2,2695576.29
+1438.0,4.0,3.0,1.0,2005,lahore,dha phase 6,fair,1.0,villa,yes,yes,no,26800000.0,5.28,5073922.11
+9467.0,4.0,4.0,1.0,2005,lahore,gulberg,poor,1.0,house,yes,unknown,no,132100000.0,34.77,3798904.09
+643.0,4.0,4.0,1.0,2010,karachi,dha phase 5,excellent,2.0,villa,yes,unknown,yes,17000000.0,2.36,7197900.47
+2506.0,3.0,4.0,2.0,2014,faisalabad,jinnah colony,new,1.0,villa,no,yes,yes,14200000.0,9.2,1542677.57
+944.0,4.0,4.0,1.0,2024,lahore,state life housing society,excellent,1.0,house,unknown,yes,no,14700000.0,3.47,4239486.23
+4985.0,3.0,3.0,1.0,1987,islamabad,b-17,excellent,1.0,house,yes,yes,yes,43100000.0,18.31,2353856.57
+2707.0,5.0,4.0,2.0,2003,islamabad,g-11,excellent,2.0,house,unknown,no,unknown,46600000.0,9.94,4686682.67
+2829.0,4.0,5.0,1.0,2005,lahore,bahria town,new,2.0,villa,no,no,no,40000000.0,10.39,3849416.76
+959.0,2.0,3.0,2.0,2002,islamabad,pwd,fair,1.0,house,unknown,unknown,unknown,10500000.0,3.52,2980839.42
+692.0,3.0,4.0,3.0,2002,karachi,dha phase 7,poor,2.0,villa,yes,no,yes,10400000.0,2.54,4091618.5
+5385.0,7.0,7.0,3.0,2005,faisalabad,canal road,fair,1.0,villa,yes,yes,unknown,27300000.0,19.78,1380208.91
+1348.0,7.0,7.0,2.0,1992,lahore,state life housing society,excellent,0.0,house,unknown,no,unknown,16600000.0,4.95,3352633.53
+1158.0,7.0,6.0,2.0,2019,karachi,dha phase 8,fair,1.0,house,yes,yes,no,36600000.0,4.25,8604792.75
+757.0,4.0,3.0,1.0,2020,karachi,dha phase 8,good,1.0,house,yes,yes,yes,21200000.0,2.78,7624438.57
+4364.0,4.0,4.0,2.0,1995,lahore,raiwind road,poor,1.0,villa,yes,yes,yes,13500000.0,16.03,842203.25
+4304.0,3.0,3.0,1.0,2016,lahore,cantt,good,1.0,house,no,no,yes,70200000.0,15.81,4440508.83
+1278.0,1.0,2.0,3.0,2005,lahore,dha phase 6,good,1.0,house,no,no,unknown,31700000.0,4.69,6752992.96
+3559.0,3.0,2.0,3.0,2018,lahore,bahria town,needs renovation,2.0,house,yes,yes,yes,31600000.0,13.07,2417280.13
+2253.0,4.0,5.0,1.0,2005,islamabad,f-6,fair,2.0,house,unknown,unknown,no,28800000.0,8.28,3480159.79
+2289.0,3.0,3.0,3.0,1993,karachi,clifton,new,3.0,house,yes,unknown,yes,49900000.0,8.41,5935026.21
+3229.0,4.0,5.0,2.0,1992,karachi,clifton,poor,1.0,house,yes,no,unknown,39700000.0,11.86,3347266.96
+1587.0,3.0,2.0,4.0,2021,rawalpindi,satellite town,fair,1.0,house,no,no,unknown,17600000.0,5.83,3019281.66
+3156.0,3.0,3.0,2.0,2005,lahore,model town,excellent,1.0,house,yes,unknown,no,56800000.0,11.59,4899809.89
+4655.0,3.0,4.0,2.0,2005,karachi,gulistan-e-johar,needs renovation,1.0,house,no,yes,unknown,24500000.0,17.1,1432894.74
+1379.0,1.0,2.0,2.0,2000,islamabad,bahria town,poor,2.0,house,no,no,no,10400000.0,5.07,2053226.98
+1386.0,3.0,4.0,2.0,1989,lahore,raiwind road,good,2.0,house,unknown,no,no,11500000.0,5.09,2258928.57
+8585.0,4.0,5.0,1.0,2002,karachi,malir,good,1.0,house,yes,unknown,yes,62800000.0,31.53,1991531.74
+643.0,5.0,5.0,1.0,2001,karachi,dha phase 5,excellent,2.0,house,yes,unknown,unknown,16700000.0,2.36,7070878.69
+2589.0,1.0,1.0,1.0,2016,rawalpindi,chaklala,fair,1.0,villa,no,yes,no,9800000.0,9.51,1030533.02
+837.0,3.0,3.0,3.0,1988,karachi,dha phase 6,good,2.0,house,unknown,yes,yes,18400000.0,3.07,5984946.24
+774.0,3.0,3.0,1.0,1999,lahore,askari 10,new,2.0,house,yes,no,unknown,11400000.0,2.84,4009883.72
+785.0,2.0,3.0,1.0,2003,karachi,dha phase 7,good,2.0,villa,unknown,no,unknown,16500000.0,2.88,5722452.23
+2522.0,2.0,1.0,2.0,1993,karachi,dha phase 7,good,0.0,house,yes,yes,no,35700000.0,9.26,3853816.42
+1433.0,3.0,4.0,2.0,2004,lahore,garden town,new,3.0,house,yes,yes,unknown,23900000.0,5.26,4540666.43
+8877.0,4.0,5.0,2.0,2005,karachi,gulshan-e-iqbal,fair,3.0,house,no,yes,no,94700000.0,32.61,2904368.03
+844.0,6.0,7.0,2.0,1990,islamabad,e-7,good,0.0,house,unknown,unknown,unknown,19300000.0,3.1,6225622.04
+1556.0,2.0,1.0,2.0,1991,islamabad,f-6,needs renovation,3.0,house,yes,yes,no,13700000.0,5.72,2397059.77
+6913.0,6.0,6.0,1.0,1994,karachi,dha phase 5,new,0.0,house,unknown,yes,no,106500000.0,25.39,4194217.42
+4353.0,4.0,4.0,1.0,2005,karachi,pechs,needs renovation,2.0,house,yes,no,no,30900000.0,15.99,1932580.98
+927.0,6.0,5.0,2.0,2005,karachi,pechs,poor,1.0,house,unknown,unknown,no,15400000.0,3.4,4522815.53
+3349.0,5.0,5.0,2.0,1997,karachi,scheme 33,new,0.0,house,yes,yes,yes,26400000.0,12.3,2146133.17
+1038.0,1.0,1.0,2.0,2023,rawalpindi,askari,good,1.0,house,yes,yes,no,13200000.0,3.81,3462138.73
+25000.0,4.0,5.0,2.0,2019,lahore,bahria town,good,1.0,house,yes,yes,no,100000.0,91.83,1089.0
+2589.0,4.0,5.0,1.0,2005,islamabad,pwd,fair,2.0,house,unknown,yes,yes,8200000.0,9.51,862282.73
+5364.0,3.0,2.0,1.0,2019,islamabad,f-8,poor,0.0,house,unknown,yes,yes,79600000.0,19.7,4040100.67
+3512.0,3.0,3.0,2.0,2005,unknown,g-10,fair,0.0,house,yes,no,yes,36300000.0,12.9,2813973.52
+6916.0,4.0,4.0,2.0,2007,islamabad,bahria town,needs renovation,2.0,house,yes,no,yes,46300000.0,25.4,1822610.61
+3604.0,3.0,3.0,2.0,2005,karachi,dha phase 8,poor,2.0,villa,yes,yes,no,43500000.0,13.24,3286036.35
+4995.0,5.0,4.0,3.0,2023,islamabad,gulberg greens,new,1.0,house,no,unknown,no,28700000.0,18.35,1564279.28
+1104.0,4.0,4.0,1.0,2017,islamabad,f-6,fair,1.0,villa,yes,no,unknown,26800000.0,4.06,6608967.39
+3266.0,2.0,3.0,2.0,2005,islamabad,bahria town,good,0.0,house,yes,unknown,no,47200000.0,12.0,3934537.66
+717.0,5.0,6.0,2.0,2005,karachi,bahria town karachi,fair,0.0,house,unknown,no,no,9500000.0,2.63,3607217.57
+1911.0,3.0,2.0,4.0,2005,islamabad,f-6,new,1.0,house,yes,no,unknown,58600000.0,7.02,8348430.14
+2645.0,4.0,3.0,2.0,2019,karachi,dha phase 5,good,2.0,house,yes,yes,no,59300000.0,9.72,6103752.36
+729.0,7.0,7.0,2.0,2016,rawalpindi,saddar,good,2.0,villa,unknown,yes,unknown,11500000.0,2.68,4294753.09
+9406.0,5.0,4.0,1.0,1990,islamabad,gulberg greens,new,1.0,villa,unknown,yes,yes,77200000.0,34.55,2234499.26
+1314.0,3.0,3.0,2.0,2002,karachi,scheme 33,poor,3.0,villa,yes,unknown,no,11700000.0,4.83,2424143.84
+5191.0,5.0,4.0,3.0,2005,faisalabad,canal road,fair,0.0,villa,yes,unknown,unknown,29500000.0,19.07,1547172.99
+642.0,5.0,4.0,1.0,1986,faisalabad,jinnah colony,needs renovation,2.0,house,yes,unknown,no,3300000.0,2.36,1399415.89
+577.0,5.0,5.0,1.0,1991,islamabad,f-6,good,3.0,villa,yes,no,unknown,14600000.0,2.12,6888821.49
+3716.0,3.0,3.0,3.0,1986,karachi,clifton,poor,1.0,villa,unknown,unknown,no,43700000.0,13.65,3201648.28
+3156.0,5.0,5.0,3.0,1988,islamabad,e-7,fair,1.0,villa,yes,unknown,no,58300000.0,11.59,5029206.27
+5117.0,6.0,6.0,3.0,1988,faisalabad,wapda city,excellent,2.0,house,yes,no,no,33600000.0,18.8,1787688.1
+562.0,5.0,5.0,1.0,2014,unknown,dha phase 8,needs renovation,2.0,house,yes,no,no,10000000.0,2.06,4844306.05
+1388.0,5.0,5.0,1.0,2015,islamabad,g-10,fair,2.0,house,unknown,yes,unknown,18800000.0,5.1,3687536.02
+1258.0,4.0,3.0,1.0,2005,karachi,dha phase 5,poor,1.0,house,yes,no,no,17400000.0,4.62,3765620.03
+2697.0,5.0,6.0,2.0,2002,lahore,garden town,good,0.0,house,no,yes,yes,31600000.0,9.91,3189877.64
+4737.0,2.0,2.0,1.0,2010,lahore,askari 10,new,2.0,house,yes,yes,no,64300000.0,17.4,3695519.32
+2817.0,5.0,4.0,3.0,2005,lahore,cantt,good,2.0,house,yes,unknown,unknown,69000000.0,10.35,6668530.35
+3419.0,4.0,5.0,2.0,2008,islamabad,bahria town,good,1.0,villa,yes,no,no,37700000.0,12.56,3001996.2
+5365.0,3.0,2.0,3.0,2023,lahore,cantt,good,1.0,house,yes,unknown,yes,102400000.0,19.71,5196346.69
+4405.0,6.0,6.0,1.0,2010,islamabad,b-17,good,2.0,house,unknown,yes,unknown,41600000.0,16.18,2571078.32
+892.0,2.0,1.0,1.0,2005,lahore,cantt,fair,3.0,house,yes,yes,unknown,23300000.0,3.28,7111463.0
+603.0,5.0,4.0,2.0,1994,karachi,dha phase 7,poor,1.0,house,no,unknown,unknown,8800000.0,2.21,3973134.33
+6256.0,5.0,5.0,1.0,1992,karachi,bahria town karachi,needs renovation,2.0,house,no,yes,yes,31400000.0,22.98,1366472.19
+756.0,6.0,7.0,1.0,2005,rawalpindi,dha phase 2,good,0.0,villa,no,yes,yes,14400000.0,2.78,5185714.29
+3132.0,4.0,4.0,2.0,2005,karachi,pechs,excellent,1.0,villa,no,yes,unknown,33000000.0,11.5,2868534.48
+5266.0,3.0,4.0,2.0,1997,lahore,gulberg,needs renovation,3.0,house,unknown,unknown,yes,43900000.0,19.34,2269611.66
+555.0,2.0,2.0,2.0,2003,lahore,gulberg,fair,2.0,house,yes,unknown,yes,14600000.0,2.04,7161891.89
+1835.0,2.0,2.0,1.0,2010,islamabad,pwd,good,2.0,house,no,unknown,no,18500000.0,6.74,2744754.77
+2383.0,4.0,4.0,3.0,2014,rawalpindi,saddar,fair,1.0,house,yes,yes,yes,18900000.0,8.75,2159263.53
+4804.0,3.0,2.0,1.0,2014,lahore,bahria town,new,4.0,house,unknown,no,unknown,72800000.0,17.65,4125686.93
+614.0,3.0,3.0,1.0,1992,karachi,north nazimabad,needs renovation,1.0,house,yes,unknown,yes,4000000.0,2.26,1773615.64
+573.0,4.0,4.0,1.0,1995,rawalpindi,chaklala,good,0.0,villa,yes,unknown,yes,6000000.0,2.1,2850785.34
+3104.0,3.0,2.0,1.0,1996,karachi,clifton,excellent,1.0,villa,yes,no,no,58200000.0,11.4,5104687.5
+1468.0,4.0,5.0,3.0,2017,karachi,dha phase 8,excellent,0.0,house,no,no,no,51000000.0,5.39,9458276.57
+6409.0,6.0,5.0,1.0,2015,lahore,dha phase 8,excellent,1.0,house,yes,yes,yes,99800000.0,23.54,4239436.73
+2589.0,6.0,5.0,2.0,2005,lahore,dha phase 6,poor,1.0,house,unknown,no,unknown,10000000.0,9.51,1051564.31
+2881.0,4.0,5.0,1.0,2000,rawalpindi,pwd,excellent,2.0,villa,no,no,yes,18300000.0,10.58,1729321.42
+1339.0,4.0,3.0,3.0,2011,lahore,gulberg,fair,0.0,house,no,yes,no,25000000.0,4.92,5083084.39
+2200.0,3.0,3.0,2.0,2008,rawalpindi,adiala road,fair,4.0,house,yes,yes,yes,13500000.0,8.08,1670625.0
+1068.0,5.0,4.0,1.0,2012,islamabad,gulberg greens,excellent,0.0,house,yes,no,no,18700000.0,3.92,4766924.16
+4961.0,6.0,6.0,1.0,2002,islamabad,dha phase 2,good,0.0,house,no,no,unknown,57300000.0,18.22,3144512.2
+1336.0,3.0,2.0,1.0,1994,karachi,malir,excellent,2.0,house,yes,no,yes,12400000.0,4.91,2526871.26
+4310.0,5.0,6.0,1.0,1993,lahore,cantt,poor,2.0,house,yes,yes,unknown,40200000.0,15.83,2539315.55
+633.0,2.0,1.0,2.0,2017,lahore,model town,good,0.0,house,unknown,unknown,no,14500000.0,2.33,6236374.41
+1706.0,4.0,4.0,1.0,1985,karachi,pechs,poor,3.0,house,unknown,no,no,14300000.0,6.27,2282048.65
+1424.0,1.0,1.0,3.0,2011,karachi,malir,good,1.0,house,no,yes,no,15600000.0,5.23,2982514.04
+1453.0,3.0,3.0,2.0,2013,lahore,bahria town,fair,3.0,house,yes,yes,unknown,16800000.0,5.34,3147832.07
+2389.0,5.0,6.0,3.0,2020,faisalabad,madina town,excellent,0.0,villa,yes,yes,unknown,20700000.0,8.78,2358968.19
+6663.0,6.0,6.0,3.0,2016,karachi,dha phase 8,good,0.0,villa,unknown,yes,unknown,125000000.0,24.47,5107496.62
+5628.0,3.0,4.0,1.0,2005,lahore,wapda town,fair,1.0,house,no,unknown,unknown,33400000.0,20.67,1615698.29
+1079.0,1.0,1.0,2.0,2008,faisalabad,madina town,excellent,0.0,house,unknown,no,no,9000000.0,3.96,2270852.64
+7068.0,4.0,4.0,3.0,1985,karachi,dha phase 6,fair,2.0,villa,unknown,unknown,no,94300000.0,25.96,3632311.12
+1382.0,6.0,6.0,2.0,2005,karachi,scheme 33,fair,1.0,villa,no,no,no,20600000.0,5.08,4058140.38
+719.0,3.0,4.0,2.0,2009,islamabad,f-7,good,1.0,house,no,no,no,17800000.0,2.64,6739986.09
+3687.0,5.0,4.0,1.0,2011,karachi,clifton,needs renovation,1.0,house,no,no,unknown,50700000.0,13.54,3743714.4
+6850.0,5.0,5.0,3.0,2008,faisalabad,wapda city,excellent,1.0,house,yes,yes,unknown,44700000.0,25.16,1776580.29
+1392.0,3.0,2.0,2.0,2005,karachi,dha phase 5,needs renovation,1.0,house,yes,no,yes,18200000.0,5.11,3559590.52
+849.0,6.0,7.0,3.0,2004,lahore,state life housing society,fair,0.0,house,no,yes,unknown,12300000.0,3.12,3944257.95
+1096.0,6.0,6.0,1.0,2024,rawalpindi,satellite town,fair,1.0,house,yes,no,yes,13700000.0,4.03,3403125.0
+6307.0,2.0,2.0,2.0,2016,lahore,state life housing society,good,3.0,villa,unknown,yes,no,52900000.0,23.17,2283498.49
+4731.0,5.0,4.0,2.0,2005,karachi,dha phase 7,fair,1.0,house,unknown,no,unknown,98600000.0,17.38,5674032.97
+1382.0,3.0,4.0,1.0,2005,faisalabad,jinnah colony,fair,1.0,house,yes,yes,unknown,7900000.0,5.08,1556277.13
+4603.0,5.0,6.0,1.0,2005,lahore,garden town,good,4.0,house,no,yes,unknown,60400000.0,16.91,3572431.02
+878.0,5.0,5.0,3.0,2021,karachi,north nazimabad,needs renovation,0.0,house,no,unknown,unknown,13700000.0,3.22,4248092.26
+5471.0,4.0,5.0,1.0,2011,lahore,askari 10,needs renovation,1.0,house,unknown,yes,unknown,44500000.0,20.1,2214426.06
+3408.0,3.0,3.0,1.0,2025,karachi,north nazimabad,good,1.0,villa,unknown,unknown,no,48400000.0,12.52,3866461.27
+3682.0,6.0,7.0,2.0,2022,karachi,dha phase 8,excellent,1.0,house,yes,no,unknown,121400000.0,13.52,8976412.28
+763.0,2.0,2.0,1.0,1999,lahore,dha phase 5,excellent,4.0,villa,yes,unknown,no,14800000.0,2.8,5280865.01
+967.0,4.0,3.0,2.0,2022,karachi,dha phase 6,good,2.0,villa,unknown,yes,no,30500000.0,3.55,8586995.86
+865.0,2.0,2.0,2.0,2005,karachi,gulistan-e-johar,good,2.0,villa,unknown,yes,unknown,11200000.0,3.18,3525086.71
+617.0,2.0,2.0,3.0,2013,karachi,malir,excellent,1.0,house,unknown,yes,unknown,28700000.0,2.27,12663816.86
+6676.0,6.0,6.0,3.0,1989,lahore,dha phase 5,new,2.0,house,unknown,yes,yes,82600000.0,24.52,3368461.65
+8599.0,3.0,3.0,1.0,1988,islamabad,dha phase 2,excellent,1.0,house,no,no,unknown,92600000.0,31.58,2931776.95
+9681.0,4.0,5.0,2.0,2005,faisalabad,jinnah colony,good,1.0,house,yes,yes,yes,40700000.0,35.56,1144569.26
+1405.0,1.0,1.0,4.0,2005,karachi,pechs,excellent,2.0,house,no,no,no,29600000.0,5.16,5735658.36
+1315.0,5.0,5.0,1.0,2005,unknown,satellite town,good,1.0,villa,yes,unknown,no,17000000.0,4.83,3519581.75
+1069.0,4.0,5.0,2.0,2007,islamabad,bahria town,new,1.0,house,no,unknown,no,18300000.0,3.93,4660594.01
+900.0,4.0,5.0,4.0,2009,karachi,scheme 33,needs renovation,0.0,house,unknown,no,no,9500000.0,3.31,2873750.0
+1546.0,4.0,5.0,1.0,1996,lahore,garden town,excellent,2.0,house,unknown,yes,yes,15200000.0,5.68,2676714.1
+1132.0,6.0,6.0,2.0,1986,islamabad,e-7,new,0.0,house,unknown,unknown,yes,22600000.0,4.16,5435379.86
+1399.0,6.0,7.0,3.0,2005,lahore,bahria town,good,0.0,house,unknown,no,yes,27900000.0,5.14,5429431.74
+4812.0,3.0,4.0,1.0,1993,karachi,bahria town karachi,poor,1.0,house,no,unknown,unknown,30300000.0,17.67,1714292.39
+2319.0,4.0,5.0,2.0,2016,islamabad,gulberg greens,fair,2.0,house,no,yes,unknown,21700000.0,8.52,2547574.39
+5035.0,4.0,4.0,3.0,2020,rawalpindi,satellite town,excellent,2.0,house,no,no,unknown,38200000.0,18.49,2065531.28
+4389.0,3.0,3.0,3.0,2015,karachi,gulistan-e-johar,good,0.0,villa,yes,yes,unknown,51300000.0,16.12,3182142.86
+6653.0,3.0,4.0,1.0,1995,karachi,dha phase 6,needs renovation,0.0,house,yes,yes,yes,60100000.0,24.44,2459375.47
+5297.0,2.0,1.0,1.0,2005,faisalabad,jinnah colony,excellent,2.0,house,unknown,unknown,no,25500000.0,19.46,1310623.94
+4978.0,6.0,5.0,1.0,1996,faisalabad,satiana road,fair,0.0,house,unknown,no,unknown,13400000.0,18.28,732854.56
+4169.0,3.0,3.0,3.0,2005,lahore,johar town,excellent,2.0,villa,yes,yes,no,46200000.0,15.31,3017018.47
+849.0,3.0,4.0,2.0,2013,islamabad,pwd,fair,1.0,villa,no,no,yes,28700000.0,3.12,9203268.55
+4683.0,2.0,1.0,2.0,2014,karachi,dha phase 8,good,3.0,villa,yes,no,unknown,89000000.0,17.2,5174087.12
+781.0,4.0,4.0,2.0,2005,lahore,gulberg,good,1.0,house,yes,yes,no,14500000.0,2.87,5054577.46
+949.0,4.0,3.0,1.0,1988,karachi,scheme 33,excellent,2.0,house,yes,no,no,8300000.0,3.49,2381111.7
+3064.0,4.0,5.0,2.0,2005,karachi,dha phase 6,good,2.0,house,yes,no,no,64200000.0,11.25,5704454.96
+3263.0,5.0,5.0,1.0,2005,karachi,bahria town karachi,good,2.0,house,unknown,unknown,unknown,29500000.0,11.99,2461346.92
+897.0,4.0,5.0,2.0,2005,lahore,dha phase 8,good,2.0,house,no,unknown,no,18600000.0,3.29,5645317.73
+1561.0,3.0,4.0,3.0,1988,rawalpindi,askari,good,1.0,house,yes,yes,no,12200000.0,5.73,2127770.66
+877.0,4.0,4.0,1.0,2010,rawalpindi,chaklala,good,2.0,house,unknown,yes,unknown,11300000.0,3.22,3507896.24
+590.0,2.0,2.0,3.0,1996,lahore,garden town,good,1.0,villa,yes,no,yes,8700000.0,2.17,4014533.9
+3217.0,4.0,3.0,1.0,2010,unknown,garden town,good,1.0,villa,no,unknown,no,30400000.0,11.82,2572707.49
+2589.0,3.0,3.0,1.0,2005,islamabad,b-17,fair,1.0,house,unknown,no,no,9200000.0,9.51,967439.17
+7241.0,5.0,6.0,1.0,1991,karachi,gulshan-e-iqbal,good,2.0,house,unknown,yes,yes,59600000.0,26.6,2240864.52
+2419.0,5.0,6.0,1.0,2005,lahore,johar town,excellent,1.0,house,yes,yes,yes,33600000.0,8.89,3781562.63
+1169.0,5.0,6.0,2.0,1992,lahore,dha phase 7,good,2.0,house,unknown,unknown,yes,19000000.0,4.29,4424935.84
+1447.0,5.0,5.0,3.0,2005,karachi,gulistan-e-johar,excellent,0.0,house,no,unknown,unknown,25600000.0,5.31,4816586.04
+952.0,4.0,3.0,2.0,2005,karachi,bahria town karachi,fair,0.0,house,unknown,no,no,6800000.0,3.5,1944642.86
+1787.0,6.0,6.0,1.0,1997,islamabad,g-11,good,2.0,house,unknown,no,yes,25700000.0,6.56,3915402.91
+704.0,4.0,5.0,2.0,1987,karachi,pechs,poor,2.0,villa,unknown,yes,unknown,9900000.0,2.59,3828515.62
+2910.0,4.0,5.0,2.0,2022,lahore,askari 10,good,4.0,house,unknown,unknown,no,60700000.0,10.69,5678891.75
+3049.0,3.0,4.0,2.0,1999,karachi,pechs,new,2.0,house,yes,no,yes,32300000.0,11.2,2884117.74
+3331.0,4.0,4.0,1.0,2005,faisalabad,wapda city,poor,1.0,house,yes,unknown,no,12800000.0,12.24,1046172.32
+3434.0,2.0,1.0,1.0,2008,karachi,clifton,excellent,2.0,house,unknown,unknown,yes,80800000.0,12.61,6405882.35
+3370.0,4.0,4.0,1.0,1994,lahore,dha phase 7,fair,1.0,house,no,yes,yes,48800000.0,12.38,3942373.89
+5209.0,3.0,4.0,3.0,2009,islamabad,b-17,poor,3.0,villa,yes,yes,unknown,39500000.0,19.13,2064479.75
+1480.0,3.0,2.0,2.0,1992,lahore,wapda town,good,3.0,villa,yes,unknown,yes,17500000.0,5.44,3219172.3
+8929.0,4.0,4.0,2.0,2005,rawalpindi,pwd,poor,1.0,house,no,unknown,unknown,42600000.0,32.8,1298896.85
+2619.0,2.0,2.0,1.0,1989,lahore,askari 10,new,2.0,villa,no,yes,unknown,35700000.0,9.62,3711082.47
+5824.0,2.0,2.0,3.0,2005,karachi,clifton,new,2.0,house,no,no,no,87800000.0,21.39,4104318.34
+5015.0,6.0,7.0,1.0,2008,faisalabad,wapda city,poor,2.0,house,unknown,yes,yes,23200000.0,18.42,1259461.62
+4807.0,4.0,4.0,1.0,2006,lahore,bahria town,excellent,2.0,house,yes,yes,yes,57800000.0,17.66,3273569.79
+1596.0,6.0,6.0,2.0,1998,islamabad,dha phase 2,good,1.0,villa,yes,unknown,unknown,22700000.0,5.86,3872227.44
+3063.0,4.0,4.0,3.0,1989,lahore,dha phase 5,new,3.0,house,no,unknown,unknown,47900000.0,11.25,4257517.14
+2734.0,3.0,3.0,1.0,2015,lahore,bahria town,needs renovation,2.0,house,unknown,no,no,30600000.0,10.04,3047128.75
+5134.0,2.0,2.0,4.0,1999,lahore,garden town,fair,3.0,house,yes,no,no,34400000.0,18.86,1824191.66
+3037.0,4.0,4.0,3.0,2018,lahore,dha phase 5,poor,2.0,house,no,unknown,yes,45500000.0,11.16,4078819.56
+3769.0,4.0,3.0,1.0,2012,faisalabad,madina town,poor,0.0,house,no,yes,no,21400000.0,13.84,1545807.91
+3036.0,4.0,5.0,1.0,2022,islamabad,dha phase 2,new,2.0,house,yes,no,unknown,71000000.0,11.15,6366847.83
+2737.0,4.0,5.0,3.0,2008,karachi,dha phase 6,poor,3.0,house,yes,no,no,34600000.0,10.05,3441669.71
+1498.0,5.0,6.0,1.0,1985,islamabad,e-7,good,1.0,house,unknown,yes,yes,29400000.0,5.5,5343224.3
+806.0,5.0,6.0,1.0,1999,karachi,gulistan-e-johar,good,2.0,house,no,no,yes,10800000.0,2.96,3648014.89
+774.0,5.0,5.0,2.0,2005,lahore,garden town,excellent,1.0,house,yes,no,no,17700000.0,2.84,6225872.09
+1541.0,4.0,4.0,3.0,2005,karachi,dha phase 6,new,2.0,house,yes,unknown,unknown,45200000.0,5.66,7985528.88
+3009.0,1.0,1.0,1.0,2013,rawalpindi,bahria town,good,2.0,villa,yes,unknown,no,25700000.0,11.05,2325299.1
+925.0,5.0,5.0,1.0,2018,faisalabad,gulberg colony,fair,1.0,house,no,no,no,9500000.0,3.4,2796081.08
+1864.0,5.0,6.0,2.0,2005,unknown,state life housing society,good,1.0,house,no,no,unknown,16100000.0,6.85,2351515.56
+861.0,5.0,4.0,1.0,2012,lahore,dha phase 6,good,3.0,house,yes,yes,no,21400000.0,3.16,6766724.74
+2610.0,2.0,1.0,1.0,2002,lahore,askari 10,excellent,3.0,house,yes,unknown,no,43900000.0,9.59,4579224.14
+853.0,4.0,5.0,2.0,2012,karachi,malir,excellent,1.0,house,no,yes,no,13700000.0,3.13,4372596.72
+708.0,3.0,2.0,2.0,2025,lahore,dha phase 6,excellent,1.0,house,yes,no,no,18300000.0,2.6,7036970.34
+1577.0,6.0,6.0,3.0,2005,karachi,bahria town karachi,new,1.0,villa,unknown,yes,no,21300000.0,5.79,3677187.7
+2713.0,4.0,4.0,1.0,1989,karachi,malir,excellent,2.0,house,yes,unknown,unknown,21500000.0,9.97,2157528.57
+1366.0,4.0,3.0,1.0,2011,karachi,dha phase 7,poor,0.0,house,yes,unknown,unknown,20500000.0,5.02,4085743.05
+3089.0,4.0,4.0,2.0,2024,islamabad,f-6,fair,2.0,house,unknown,unknown,yes,64700000.0,11.35,5702355.13
+1454.0,4.0,3.0,3.0,2017,lahore,dha phase 5,good,2.0,house,yes,no,yes,34300000.0,5.34,6422403.71
+8511.0,5.0,6.0,2.0,2022,islamabad,pwd,good,2.0,house,no,no,no,81100000.0,31.26,2594228.06
+2854.0,4.0,3.0,2.0,1985,karachi,scheme 33,excellent,2.0,house,unknown,unknown,unknown,26400000.0,10.48,2518360.2
+794.0,4.0,4.0,2.0,2005,karachi,gulshan-e-iqbal,good,0.0,house,no,unknown,no,28700000.0,2.92,9840774.56
+609.0,5.0,4.0,1.0,2008,lahore,faisal town,good,0.0,house,yes,unknown,unknown,9200000.0,2.24,4112807.88
+2703.0,3.0,2.0,3.0,1991,karachi,pechs,needs renovation,1.0,house,yes,yes,no,26500000.0,9.93,2669117.65
+1777.0,1.0,1.0,1.0,2005,lahore,cantt,excellent,1.0,villa,unknown,yes,unknown,30800000.0,6.53,4718795.72
+3839.0,6.0,6.0,2.0,2012,islamabad,g-10,excellent,2.0,house,yes,no,yes,50800000.0,14.1,3602578.8
+899.0,3.0,2.0,1.0,2025,rawalpindi,chaklala,good,1.0,house,unknown,no,yes,11200000.0,3.3,3391768.63
+3398.0,5.0,5.0,1.0,2015,karachi,bahria town karachi,needs renovation,1.0,house,unknown,yes,unknown,30000000.0,12.48,2403619.78
+2651.0,3.0,4.0,2.0,2011,islamabad,bahria town,good,3.0,house,no,no,yes,30600000.0,9.74,3142531.12
+1504.0,6.0,5.0,4.0,1991,lahore,bahria town,poor,3.0,villa,yes,unknown,unknown,15600000.0,5.52,2823869.68
+1067.0,5.0,6.0,2.0,2023,lahore,model town,fair,2.0,house,yes,yes,no,27900000.0,3.92,7118814.43
+2839.0,5.0,6.0,2.0,2012,faisalabad,satiana road,fair,1.0,villa,yes,no,no,17500000.0,10.43,1678187.74
+952.0,3.0,3.0,2.0,2021,karachi,pechs,excellent,1.0,house,yes,unknown,yes,21800000.0,3.5,6234296.22
+4671.0,4.0,5.0,3.0,2005,faisalabad,madina town,excellent,2.0,villa,unknown,no,unknown,19900000.0,17.16,1159874.76
+2589.0,3.0,4.0,3.0,2011,karachi,dha phase 8,fair,1.0,house,unknown,unknown,no,56500000.0,9.51,5941338.35
+6659.0,4.0,4.0,1.0,2013,rawalpindi,bahria town,good,2.0,house,no,yes,unknown,49300000.0,24.46,2015606.7
+5214.0,3.0,3.0,3.0,2021,lahore,model town,excellent,1.0,house,no,unknown,no,105400000.0,19.15,5503481.01
+3679.0,4.0,4.0,2.0,2005,lahore,wapda town,poor,2.0,house,unknown,yes,unknown,35100000.0,13.51,2597438.16
+2589.0,4.0,4.0,2.0,2012,karachi,north nazimabad,excellent,1.0,house,yes,unknown,no,116200000.0,9.51,12219177.29
+4227.0,3.0,3.0,1.0,1996,lahore,dha phase 7,poor,3.0,house,unknown,no,yes,37700000.0,15.53,2428158.27
+4947.0,4.0,2.0,2.0,2005,lahore,garden town,poor,2.0,house,unknown,yes,no,35600000.0,18.17,1959187.39
+2320.0,4.0,5.0,1.0,1993,islamabad,e-7,good,2.0,villa,yes,no,unknown,45600000.0,8.52,5351120.69
+4213.0,4.0,5.0,1.0,1996,karachi,north nazimabad,needs renovation,1.0,house,no,no,no,29200000.0,15.47,1886945.17
+4532.0,1.0,1.0,1.0,2007,faisalabad,satiana road,fair,2.0,house,yes,yes,unknown,12200000.0,16.65,732888.35
+2589.0,2.0,2.0,2.0,2005,lahore,johar town,fair,1.0,house,yes,unknown,no,19700000.0,9.51,2071581.69
+9032.0,5.0,5.0,2.0,2005,lahore,bahria town,excellent,1.0,house,unknown,unknown,yes,126700000.0,33.18,3819095.99
+1056.0,4.0,3.0,1.0,1992,lahore,garden town,excellent,1.0,villa,no,unknown,no,10300000.0,3.88,2655468.75
+4938.0,5.0,4.0,1.0,2018,rawalpindi,adiala road,fair,1.0,house,no,unknown,yes,27700000.0,18.14,1527202.31
+7064.0,4.0,4.0,2.0,2022,rawalpindi,saddar,fair,2.0,house,unknown,no,yes,39600000.0,25.95,1526203.28
+2589.0,4.0,3.0,2.0,1998,lahore,raiwind road,good,1.0,house,yes,yes,yes,21800000.0,9.51,2292410.2
+2971.0,4.0,3.0,3.0,2005,karachi,gulshan-e-iqbal,good,1.0,house,no,no,yes,45800000.0,10.91,4196920.23
+741.0,3.0,4.0,1.0,2016,lahore,dha phase 6,needs renovation,2.0,house,unknown,no,yes,11600000.0,2.72,4261943.32
+2753.0,5.0,5.0,1.0,2020,lahore,faisal town,fair,0.0,house,yes,yes,unknown,39700000.0,10.11,3926017.07
+1502.0,5.0,6.0,1.0,2020,rawalpindi,chaklala,excellent,0.0,house,no,no,unknown,17400000.0,5.52,3153894.81
+904.0,6.0,6.0,2.0,2005,lahore,model town,good,0.0,house,no,unknown,no,30600000.0,3.32,9215542.04
+1361.0,3.0,2.0,1.0,2019,karachi,north nazimabad,excellent,2.0,house,no,yes,no,27200000.0,5.0,5440999.27
+1588.0,4.0,4.0,2.0,2005,karachi,dha phase 8,excellent,0.0,house,no,unknown,no,56300000.0,5.83,9652188.29
+2589.0,4.0,3.0,2.0,2014,lahore,garden town,excellent,2.0,villa,no,unknown,yes,18100000.0,9.51,1903331.4
+2589.0,5.0,4.0,3.0,1998,karachi,bahria town karachi,new,1.0,villa,unknown,no,unknown,45600000.0,9.51,4795133.26
+783.0,4.0,4.0,1.0,2015,lahore,johar town,good,2.0,house,no,unknown,unknown,13000000.0,2.88,4520114.94
+2914.0,5.0,5.0,1.0,2004,lahore,model town,fair,2.0,house,unknown,yes,unknown,43100000.0,10.7,4026758.75
+1456.0,4.0,4.0,3.0,2005,faisalabad,people's colony,fair,0.0,villa,yes,unknown,yes,10000000.0,5.35,1869848.9
+2086.0,5.0,5.0,2.0,1996,rawalpindi,satellite town,needs renovation,2.0,house,no,unknown,unknown,13000000.0,7.66,1696668.26
+1744.0,1.0,1.0,3.0,2005,karachi,dha phase 7,fair,3.0,house,yes,unknown,no,28300000.0,6.41,4417818.23
+2589.0,6.0,6.0,3.0,1992,islamabad,f-7,new,1.0,house,yes,no,yes,75000000.0,9.51,7886732.33
+1395.0,3.0,4.0,2.0,1993,karachi,malir,needs renovation,1.0,house,no,no,no,28700000.0,5.12,5601129.03
+3265.0,5.0,4.0,1.0,2023,faisalabad,satiana road,good,3.0,house,yes,no,unknown,28700000.0,11.99,2393131.7
+4624.0,5.0,4.0,2.0,2005,lahore,dha phase 7,good,2.0,house,no,yes,unknown,78600000.0,16.98,4627778.98
+3014.0,6.0,7.0,2.0,2009,islamabad,e-7,good,1.0,villa,yes,yes,unknown,65500000.0,11.07,5916514.6
+500.0,3.0,3.0,3.0,2005,rawalpindi,adiala road,excellent,2.0,house,yes,unknown,unknown,9999999999.0,1.84,5444999999.46
+2930.0,5.0,6.0,3.0,2004,lahore,gulberg,poor,4.0,house,unknown,unknown,no,42700000.0,10.76,3967602.39
+6339.0,4.0,5.0,1.0,2013,karachi,clifton,excellent,1.0,house,yes,no,yes,140500000.0,23.28,6034252.25
+1685.0,1.0,1.0,1.0,2023,islamabad,i-8,poor,3.0,villa,no,no,yes,24500000.0,6.19,3958531.16
+1430.0,4.0,6.0,1.0,1995,lahore,bahria town,poor,3.0,house,unknown,unknown,yes,12500000.0,5.25,2379807.69
+4687.0,4.0,4.0,1.0,2005,islamabad,gulberg greens,poor,3.0,villa,yes,unknown,no,39400000.0,17.22,2288596.12
+586.0,6.0,6.0,2.0,2016,lahore,model town,fair,1.0,villa,yes,yes,unknown,13100000.0,2.15,6086134.81
+1389.0,4.0,3.0,3.0,1991,islamabad,e-7,good,1.0,villa,yes,unknown,no,25700000.0,5.1,5037311.02
+1212.0,5.0,6.0,2.0,1989,karachi,north nazimabad,fair,2.0,house,yes,unknown,no,12300000.0,4.45,2762933.17
+5094.0,7.0,6.0,2.0,2019,islamabad,g-10,excellent,0.0,villa,no,unknown,no,98100000.0,18.71,5242977.03
+1348.0,5.0,6.0,3.0,1987,islamabad,f-8,poor,2.0,house,yes,yes,yes,16000000.0,4.95,3231454.01
+5096.0,5.0,4.0,2.0,1985,islamabad,i-8,good,3.0,villa,yes,unknown,unknown,61800000.0,18.72,3301618.92
+5521.0,4.0,4.0,1.0,2001,islamabad,b-17,new,1.0,house,yes,unknown,no,56700000.0,20.28,2795974.46
+600.0,3.0,3.0,2.0,2005,faisalabad,canal road,good,0.0,house,yes,unknown,unknown,7400000.0,2.2,3357750.0
+2234.0,3.0,3.0,2.0,2005,faisalabad,people's colony,new,2.0,house,unknown,unknown,yes,18700000.0,8.21,2278905.55
+4783.0,5.0,4.0,2.0,1992,karachi,dha phase 8,poor,0.0,house,yes,yes,unknown,67500000.0,17.57,3842123.14
+4657.0,4.0,5.0,2.0,2005,rawalpindi,askari,excellent,4.0,house,unknown,unknown,yes,45100000.0,17.11,2636563.24
+1096.0,2.0,2.0,1.0,2020,lahore,wapda town,excellent,2.0,villa,unknown,no,yes,19000000.0,4.03,4719662.41
+800.0,3.0,3.0,3.0,2019,unknown,f-8,fair,1.0,house,unknown,unknown,unknown,23000000.0,2.94,7827187.5
+4519.0,5.0,5.0,2.0,2015,karachi,gulistan-e-johar,excellent,1.0,villa,unknown,unknown,yes,49800000.0,16.6,3000232.35
+637.0,6.0,6.0,3.0,1990,karachi,north nazimabad,excellent,1.0,house,yes,yes,unknown,13700000.0,2.34,5855298.27
+1046.0,3.0,4.0,2.0,1998,islamabad,pwd,good,1.0,villa,yes,yes,no,11800000.0,3.84,3071271.51
+728.0,2.0,3.0,2.0,2005,karachi,gulistan-e-johar,good,2.0,house,no,no,unknown,12300000.0,2.67,4599828.3
+2965.0,6.0,5.0,1.0,2005,lahore,dha phase 7,fair,2.0,house,yes,yes,yes,57000000.0,10.89,5233811.13
+779.0,3.0,4.0,2.0,2013,karachi,gulistan-e-johar,excellent,0.0,house,no,no,yes,16500000.0,2.86,5766527.6
+1864.0,5.0,4.0,1.0,1996,islamabad,e-7,fair,3.0,house,no,no,yes,28700000.0,6.85,4191832.08
+1053.0,2.0,1.0,1.0,1993,islamabad,g-11,fair,1.0,house,yes,no,no,11700000.0,3.87,3025000.0
+1456.0,5.0,6.0,2.0,2005,karachi,dha phase 6,fair,4.0,villa,yes,yes,unknown,26600000.0,5.35,4973798.08
+642.0,5.0,6.0,1.0,1996,lahore,dha phase 5,good,1.0,house,no,no,no,12600000.0,2.36,5343224.3
+1309.0,3.0,4.0,2.0,2021,lahore,dha phase 5,poor,1.0,house,unknown,yes,no,29700000.0,4.81,6177100.84
+607.0,2.0,2.0,1.0,2007,unknown,wapda town,good,1.0,house,unknown,unknown,unknown,8400000.0,2.23,3767545.3
+8804.0,4.0,4.0,2.0,2005,rawalpindi,chaklala,fair,1.0,house,unknown,no,no,68300000.0,32.34,2112071.22
+809.0,4.0,3.0,1.0,2005,islamabad,f-7,excellent,2.0,house,yes,unknown,yes,17400000.0,2.97,5855562.42
+3365.0,5.0,4.0,1.0,2009,islamabad,f-7,good,2.0,house,yes,unknown,no,58900000.0,12.36,4765386.33
+1395.0,3.0,3.0,3.0,1996,lahore,bahria town,poor,1.0,house,unknown,yes,yes,12300000.0,5.12,2400483.87
+1188.0,6.0,7.0,1.0,2023,islamabad,g-11,good,1.0,house,yes,yes,yes,28100000.0,4.36,6439583.33
+596.0,5.0,5.0,1.0,2012,karachi,scheme 33,good,1.0,villa,no,no,yes,10200000.0,2.19,4659312.08
+4726.0,3.0,2.0,1.0,1991,karachi,scheme 33,poor,1.0,house,unknown,unknown,unknown,22200000.0,17.36,1278872.2
+4978.0,3.0,4.0,3.0,2005,karachi,dha phase 8,excellent,1.0,villa,yes,unknown,no,107400000.0,18.28,5873774.61
+6399.0,5.0,4.0,1.0,2005,lahore,raiwind road,excellent,2.0,villa,unknown,unknown,no,35900000.0,23.5,1527391.0
+9060.0,5.0,4.0,1.0,2005,islamabad,pwd,excellent,2.0,house,yes,yes,unknown,85600000.0,33.28,2572251.66
+625.0,5.0,5.0,3.0,2005,faisalabad,gulberg colony,good,1.0,house,yes,no,no,8200000.0,2.3,3571920.0
+1732.0,3.0,2.0,2.0,2010,lahore,model town,fair,2.0,house,no,no,unknown,30000000.0,6.36,4715646.65
+2610.0,5.0,6.0,3.0,2005,islamabad,f-8,needs renovation,1.0,house,yes,no,unknown,31100000.0,9.59,3244051.72
+9380.0,5.0,6.0,1.0,1995,rawalpindi,adiala road,fair,2.0,villa,no,yes,unknown,30400000.0,34.45,882345.42
+1532.0,5.0,6.0,4.0,2005,lahore,dha phase 7,fair,1.0,villa,no,no,no,21700000.0,5.63,3856282.64
+4232.0,6.0,6.0,3.0,2005,islamabad,g-10,needs renovation,2.0,house,yes,yes,no,32100000.0,15.54,2065034.26
+1795.0,2.0,1.0,1.0,2019,rawalpindi,satellite town,new,0.0,villa,no,no,no,16700000.0,6.59,2532910.86
+2635.0,7.0,7.0,1.0,1985,islamabad,gulberg greens,excellent,2.0,house,unknown,unknown,yes,28600000.0,9.68,2954971.54
+736.0,3.0,2.0,2.0,2005,lahore,faisal town,good,3.0,house,unknown,yes,no,12800000.0,2.7,4734782.61
+3249.0,5.0,6.0,1.0,2013,lahore,gulberg,excellent,2.0,villa,no,no,no,67700000.0,11.93,5672922.44
+1174.0,3.0,4.0,1.0,1995,rawalpindi,chaklala,new,2.0,villa,unknown,no,yes,9700000.0,4.31,2249425.04
+1758.0,3.0,4.0,3.0,2012,lahore,state life housing society,excellent,2.0,house,unknown,yes,no,25000000.0,6.46,3871587.03
+954.0,6.0,6.0,2.0,1986,lahore,gulberg,needs renovation,1.0,house,no,no,unknown,11200000.0,3.5,3196226.42
+2275.0,4.0,3.0,2.0,1997,karachi,dha phase 5,poor,2.0,house,unknown,yes,yes,24800000.0,8.36,2967824.18
+7031.0,2.0,3.0,2.0,2014,karachi,gulistan-e-johar,good,2.0,house,yes,no,no,74300000.0,25.83,2876998.29
+577.0,6.0,7.0,2.0,2001,karachi,north nazimabad,fair,2.0,house,unknown,no,no,11000000.0,2.12,5190207.97
+1597.0,3.0,2.0,1.0,1998,lahore,bahria town,poor,2.0,house,unknown,unknown,yes,12600000.0,5.87,2147996.24
+5314.0,6.0,6.0,4.0,2005,islamabad,e-7,good,4.0,house,unknown,no,no,146900000.0,19.52,7526067.93
+3780.0,4.0,4.0,2.0,2003,karachi,pechs,needs renovation,2.0,villa,yes,unknown,yes,42400000.0,13.88,3053809.52
+4944.0,6.0,6.0,1.0,2008,islamabad,f-7,needs renovation,2.0,house,unknown,unknown,unknown,86200000.0,18.16,4746753.64
+2105.0,3.0,2.0,2.0,1996,karachi,gulshan-e-iqbal,good,1.0,house,no,no,unknown,25200000.0,7.73,3259239.9
+3229.0,7.0,7.0,2.0,2005,karachi,dha phase 5,good,0.0,villa,unknown,no,yes,60400000.0,11.86,5092567.36
+5057.0,5.0,5.0,1.0,2020,rawalpindi,bahria town,excellent,1.0,villa,unknown,yes,no,44600000.0,18.57,2401097.49
+563.0,6.0,6.0,2.0,1985,faisalabad,canal road,needs renovation,1.0,house,unknown,no,no,5300000.0,2.07,2562921.85
+640.0,6.0,5.0,4.0,1995,lahore,bahria town,fair,1.0,house,no,unknown,yes,12800000.0,2.35,5445000.0
+634.0,2.0,2.0,1.0,1992,islamabad,gulberg greens,good,1.0,house,yes,yes,no,6500000.0,2.33,2791206.62
+1442.0,3.0,4.0,1.0,2005,lahore,wapda town,fair,2.0,house,yes,no,unknown,12700000.0,5.3,2397763.52
+902.0,4.0,4.0,1.0,2005,rawalpindi,bahria town,fair,2.0,house,no,unknown,no,9800000.0,3.31,2957926.83
+2131.0,1.0,1.0,2.0,2002,karachi,dha phase 8,good,3.0,house,yes,unknown,unknown,45400000.0,7.83,5800164.24
+5254.0,1.0,4.0,1.0,2011,islamabad,i-8,fair,1.0,villa,yes,no,yes,61700000.0,19.3,3197149.79
+725.0,4.0,4.0,2.0,2005,lahore,askari 10,fair,0.0,house,no,no,yes,14700000.0,2.66,5520103.45
+748.0,3.0,2.0,1.0,2005,islamabad,f-7,good,0.0,house,yes,unknown,unknown,15300000.0,2.75,5568750.0
+1281.0,5.0,6.0,2.0,2018,unknown,adiala road,new,1.0,house,no,unknown,unknown,16700000.0,4.71,3549238.88
+9622.0,3.0,4.0,1.0,2005,karachi,north nazimabad,excellent,2.0,house,no,no,yes,113300000.0,35.34,3205770.63
+5009.0,4.0,3.0,3.0,2025,karachi,clifton,fair,4.0,house,yes,no,no,95200000.0,18.4,5174326.21
+1169.0,4.0,4.0,3.0,1985,lahore,johar town,good,2.0,house,no,unknown,unknown,11700000.0,4.29,2724828.91
+5542.0,4.0,5.0,2.0,2005,rawalpindi,satellite town,good,2.0,villa,unknown,yes,no,45800000.0,20.36,2249918.8
+8401.0,4.0,5.0,1.0,2023,lahore,faisal town,excellent,1.0,house,yes,unknown,unknown,95100000.0,30.86,3081892.04
+8492.0,5.0,6.0,3.0,2001,lahore,dha phase 7,good,1.0,house,yes,no,unknown,135200000.0,31.19,4334455.96
+3253.0,4.0,4.0,1.0,2005,karachi,malir,needs renovation,1.0,house,yes,unknown,no,26100000.0,11.95,2184360.59
+2150.0,5.0,5.0,1.0,2025,islamabad,pwd,good,1.0,house,no,unknown,yes,28700000.0,7.9,3634220.93
+1837.0,3.0,3.0,1.0,2005,islamabad,g-11,good,2.0,house,yes,no,no,19300000.0,6.75,2860329.34
+9445.0,4.0,4.0,2.0,1990,faisalabad,jinnah colony,good,3.0,house,yes,unknown,unknown,34400000.0,34.69,991572.26
+1577.0,5.0,6.0,4.0,2003,karachi,dha phase 6,needs renovation,2.0,villa,yes,no,unknown,28700000.0,5.79,4954708.31
+5051.0,5.0,6.0,2.0,1996,faisalabad,jinnah colony,fair,2.0,house,no,unknown,unknown,21600000.0,18.55,1164244.7
+2116.0,4.0,4.0,4.0,2023,lahore,gulberg,excellent,0.0,villa,yes,no,unknown,58000000.0,7.77,7462429.11
+604.0,4.0,4.0,1.0,2000,lahore,bahria town,new,1.0,villa,yes,yes,yes,10900000.0,2.22,4913120.86
+634.0,5.0,4.0,2.0,1992,islamabad,e-7,fair,0.0,house,unknown,yes,no,17000000.0,2.33,7300078.86
+3322.0,4.0,4.0,1.0,2008,faisalabad,gulberg colony,needs renovation,3.0,villa,yes,unknown,unknown,15200000.0,12.2,1245695.36
+1155.0,5.0,5.0,1.0,1989,lahore,raiwind road,needs renovation,0.0,villa,no,yes,no,5800000.0,4.24,1367142.86
+2589.0,6.0,5.0,2.0,2011,islamabad,f-8,poor,1.0,villa,unknown,yes,yes,22200000.0,9.51,2334472.77
+2899.0,3.0,3.0,1.0,2004,rawalpindi,dha phase 2,needs renovation,2.0,house,yes,unknown,no,17500000.0,10.65,1643454.64
+1393.0,1.0,1.0,2.0,2005,faisalabad,jinnah colony,fair,0.0,house,yes,unknown,unknown,9100000.0,5.12,1778517.59
+9416.0,3.0,3.0,2.0,2021,lahore,wapda town,needs renovation,2.0,house,yes,no,unknown,28700000.0,34.59,829818.93
+702.0,2.0,2.0,1.0,2001,rawalpindi,dha phase 2,good,1.0,house,yes,no,unknown,7800000.0,2.58,3025000.0
+4662.0,2.0,2.0,2.0,2005,rawalpindi,adiala road,fair,2.0,house,unknown,no,unknown,28600000.0,17.12,1670173.75
+8530.0,4.0,4.0,1.0,2010,lahore,model town,good,2.0,house,yes,no,no,129600000.0,31.33,4136412.66
+1191.0,3.0,2.0,2.0,2012,islamabad,pwd,good,1.0,house,no,unknown,unknown,16200000.0,4.37,3703148.61
+945.0,3.0,2.0,2.0,2005,karachi,gulshan-e-iqbal,fair,0.0,house,unknown,unknown,no,7800000.0,3.47,2247142.86
+6357.0,4.0,5.0,2.0,2011,karachi,dha phase 5,new,0.0,villa,yes,yes,yes,112200000.0,23.35,4805167.53
+2774.0,1.0,2.0,2.0,2005,rawalpindi,askari,good,2.0,villa,unknown,yes,unknown,22000000.0,10.19,2159156.45
+1423.0,5.0,6.0,1.0,2005,lahore,garden town,fair,1.0,house,yes,yes,yes,18200000.0,5.23,3482044.98
+9271.0,7.0,8.0,3.0,1993,karachi,clifton,good,2.0,house,yes,no,no,114700000.0,34.05,3368253.15
+5792.0,5.0,6.0,4.0,1992,karachi,bahria town karachi,excellent,2.0,house,unknown,yes,no,42200000.0,21.27,1983589.43
+5022.0,4.0,4.0,1.0,1990,islamabad,e-7,needs renovation,3.0,house,no,unknown,no,62300000.0,18.45,3377374.55
+8835.0,3.0,3.0,2.0,2021,rawalpindi,askari,fair,1.0,villa,no,unknown,yes,68400000.0,32.45,2107741.94
+1940.0,4.0,3.0,1.0,2010,karachi,dha phase 7,good,2.0,house,no,unknown,no,39400000.0,7.13,5529201.03
+6693.0,5.0,4.0,3.0,2005,islamabad,f-6,needs renovation,2.0,house,yes,unknown,yes,68400000.0,24.58,2782294.94
+1534.0,3.0,4.0,2.0,2025,karachi,dha phase 5,needs renovation,2.0,house,yes,no,no,28700000.0,5.63,5093595.18
+1813.0,3.0,2.0,1.0,2010,islamabad,b-17,good,1.0,house,yes,unknown,yes,19300000.0,6.66,2898193.6
+916.0,4.0,4.0,3.0,2011,karachi,pechs,good,1.0,villa,no,yes,yes,24300000.0,3.36,7222352.62
+2847.0,6.0,6.0,2.0,2005,lahore,dha phase 8,good,2.0,house,unknown,yes,unknown,53900000.0,10.46,5154293.99
+1057.0,5.0,4.0,1.0,1989,faisalabad,jinnah colony,good,1.0,villa,unknown,unknown,unknown,7700000.0,3.88,1983278.15
+4749.0,3.0,2.0,3.0,2005,rawalpindi,adiala road,good,2.0,house,yes,yes,yes,23100000.0,17.44,1324273.53
+1162.0,5.0,5.0,2.0,1995,faisalabad,satiana road,fair,4.0,house,yes,no,unknown,8400000.0,4.27,1968072.29
+2660.0,3.0,3.0,2.0,2017,unknown,dha phase 8,fair,0.0,house,yes,unknown,no,35300000.0,9.77,3612941.73
+2739.0,4.0,4.0,1.0,2005,rawalpindi,dha phase 2,new,2.0,house,no,no,yes,21600000.0,10.06,2146987.95
+5682.0,5.0,4.0,3.0,2005,lahore,wapda town,fair,0.0,house,unknown,yes,yes,48900000.0,20.87,2343017.42
+754.0,5.0,5.0,2.0,2005,karachi,dha phase 5,needs renovation,1.0,house,yes,unknown,unknown,9900000.0,2.77,3574635.28
+1877.0,4.0,5.0,4.0,1991,lahore,raiwind road,fair,2.0,house,yes,yes,unknown,14500000.0,6.89,2103156.63
+8354.0,5.0,6.0,1.0,2009,lahore,model town,excellent,2.0,house,no,no,yes,170000000.0,30.69,5540160.4
+6847.0,4.0,7.0,4.0,2017,islamabad,gulberg greens,good,2.0,house,unknown,no,no,83800000.0,25.15,3332050.53
+790.0,5.0,5.0,2.0,1989,lahore,wapda town,fair,1.0,house,unknown,no,yes,9900000.0,2.9,3411740.51
+8861.0,4.0,4.0,1.0,1988,lahore,bahria town,good,1.0,house,no,no,unknown,78100000.0,32.55,2399585.26
+2553.0,4.0,3.0,1.0,1987,rawalpindi,dha phase 2,good,1.0,house,no,no,yes,21000000.0,9.38,2239424.21
+9003.0,4.0,5.0,1.0,1989,lahore,raiwind road,fair,1.0,villa,no,yes,unknown,42000000.0,33.07,1270076.64
+2179.0,4.0,4.0,2.0,1992,rawalpindi,adiala road,good,1.0,house,no,unknown,unknown,13800000.0,8.0,1724208.35
+9228.0,6.0,5.0,2.0,1989,karachi,dha phase 7,excellent,1.0,house,no,no,yes,148300000.0,33.9,4375235.7
+4793.0,5.0,5.0,1.0,2005,karachi,gulistan-e-johar,good,1.0,villa,unknown,yes,unknown,49200000.0,17.61,2794638.01
+50.0,5.0,6.0,3.0,1987,karachi,gulshan-e-iqbal,excellent,0.0,villa,yes,no,unknown,5000000000.0,0.18,27225000000.0
+1100.0,6.0,6.0,2.0,2005,rawalpindi,adiala road,needs renovation,0.0,house,yes,no,unknown,5600000.0,4.04,1386000.0
+1447.0,5.0,4.0,2.0,1991,karachi,scheme 33,excellent,1.0,house,yes,no,unknown,18000000.0,5.31,3386662.06
+1531.0,6.0,6.0,2.0,2021,islamabad,b-17,fair,1.0,house,unknown,unknown,no,18300000.0,5.62,3254196.6
+6374.0,6.0,7.0,2.0,2013,faisalabad,gulberg colony,fair,3.0,house,unknown,unknown,yes,29400000.0,23.41,1255749.92
+4692.0,3.0,4.0,1.0,2005,rawalpindi,chaklala,good,1.0,house,no,yes,no,36100000.0,17.23,2094677.11
+2589.0,2.0,3.0,2.0,2005,lahore,state life housing society,good,2.0,house,yes,unknown,unknown,57400000.0,9.51,6035979.14
+5742.0,6.0,6.0,3.0,1993,karachi,pechs,new,0.0,villa,unknown,yes,unknown,74000000.0,21.09,3508620.69
+1430.0,3.0,3.0,3.0,2001,karachi,malir,poor,0.0,house,yes,yes,no,11800000.0,5.25,2246538.46
+1812.0,4.0,3.0,2.0,1991,lahore,raiwind road,excellent,2.0,villa,no,unknown,no,15900000.0,6.66,2388948.68
+5684.0,4.0,4.0,1.0,2005,faisalabad,wapda city,good,0.0,villa,no,yes,no,39500000.0,20.88,1891955.49
+9263.0,3.0,4.0,1.0,1997,rawalpindi,saddar,poor,2.0,house,unknown,yes,no,17300000.0,34.02,508466.48
+6785.0,6.0,6.0,1.0,2023,lahore,faisal town,needs renovation,3.0,house,yes,yes,yes,52200000.0,24.92,2094539.43
+9388.0,3.0,2.0,1.0,2005,karachi,dha phase 8,good,2.0,villa,no,yes,unknown,161000000.0,34.48,4668965.7
+2778.0,6.0,7.0,2.0,2005,karachi,gulistan-e-johar,good,1.0,house,yes,no,yes,49100000.0,10.2,4811906.05
+5172.0,6.0,6.0,2.0,2014,islamabad,b-17,good,2.0,house,unknown,unknown,yes,49300000.0,19.0,2595113.11
+4833.0,3.0,3.0,2.0,2005,lahore,model town,fair,3.0,house,yes,unknown,no,79900000.0,17.75,4500884.54
+1175.0,2.0,2.0,2.0,2005,islamabad,e-7,poor,0.0,house,yes,no,unknown,28700000.0,4.32,6649851.06
+4219.0,4.0,3.0,2.0,2005,faisalabad,satiana road,excellent,1.0,house,unknown,unknown,unknown,20100000.0,15.5,1297043.14
+1140.0,1.0,2.0,3.0,2022,islamabad,gulberg greens,excellent,2.0,house,yes,no,no,18800000.0,4.19,4489736.84
+792.0,2.0,3.0,1.0,2003,lahore,cantt,good,2.0,house,unknown,no,no,19400000.0,2.91,6668750.0
+1863.0,5.0,6.0,2.0,2022,lahore,johar town,poor,2.0,house,yes,yes,unknown,15600000.0,6.84,2279710.14
+5297.0,5.0,5.0,2.0,1995,karachi,dha phase 5,good,2.0,house,yes,no,unknown,94100000.0,19.46,4836459.32
+961.0,4.0,4.0,1.0,2013,islamabad,g-11,good,2.0,house,yes,yes,yes,19000000.0,3.53,5382674.3
+1348.0,4.0,4.0,2.0,2002,lahore,dha phase 7,fair,2.0,villa,yes,yes,unknown,22000000.0,4.95,4443249.26
+1937.0,4.0,5.0,2.0,2013,lahore,askari 10,good,1.0,villa,unknown,yes,no,38600000.0,7.11,5425322.66
+3638.0,5.0,4.0,1.0,1997,islamabad,bahria town,excellent,1.0,villa,no,yes,yes,39500000.0,13.36,2955985.43
+5697.0,2.0,2.0,2.0,2019,lahore,dha phase 5,fair,4.0,house,yes,yes,unknown,85600000.0,20.93,4090679.3
+854.0,5.0,4.0,3.0,2005,faisalabad,gulberg colony,excellent,1.0,villa,unknown,no,yes,8600000.0,3.14,2741627.63
+5752.0,3.0,4.0,1.0,1992,islamabad,b-17,new,2.0,villa,yes,unknown,yes,43200000.0,21.13,2044714.88
+1512.0,1.0,1.0,3.0,1999,lahore,wapda town,excellent,1.0,house,no,no,yes,15000000.0,5.55,2700892.86
+1723.0,5.0,5.0,1.0,2005,lahore,raiwind road,poor,3.0,house,yes,unknown,yes,14100000.0,6.33,2227930.93
+1100.0,5.0,6.0,2.0,2010,islamabad,g-10,good,1.0,villa,unknown,yes,yes,18400000.0,4.04,4554000.0
+1906.0,3.0,3.0,2.0,2018,faisalabad,madina town,needs renovation,2.0,house,no,unknown,yes,12100000.0,7.0,1728344.7
+5092.0,2.0,1.0,1.0,2005,islamabad,b-17,poor,1.0,villa,unknown,yes,yes,34100000.0,18.7,1823198.15
+611.0,4.0,4.0,2.0,1993,lahore,dha phase 7,good,3.0,house,no,unknown,yes,11400000.0,2.24,5079623.57
+5278.0,2.0,2.0,1.0,2005,lahore,faisal town,good,1.0,house,unknown,no,unknown,36400000.0,19.39,1877586.21
+3634.0,4.0,4.0,1.0,2006,lahore,faisal town,good,2.0,house,unknown,no,yes,35800000.0,13.35,2682044.58
+1058.0,4.0,5.0,1.0,2021,karachi,dha phase 6,fair,0.0,house,yes,yes,no,35200000.0,3.89,9057844.99
+837.0,4.0,4.0,2.0,1997,lahore,cantt,fair,2.0,house,no,yes,no,12300000.0,3.07,4000806.45
+1717.0,2.0,2.0,2.0,2006,lahore,johar town,good,2.0,villa,no,yes,yes,20100000.0,6.31,3187085.03
+1922.0,2.0,2.0,1.0,2005,karachi,bahria town karachi,excellent,1.0,villa,no,no,yes,21500000.0,7.06,3045460.46
+3666.0,5.0,5.0,1.0,2005,faisalabad,madina town,fair,2.0,house,unknown,unknown,unknown,21400000.0,13.47,1589238.95
+1153.0,3.0,2.0,2.0,1997,lahore,raiwind road,fair,2.0,house,no,no,no,9400000.0,4.24,2219557.68
+6642.0,4.0,3.0,1.0,2005,lahore,wapda town,fair,2.0,house,unknown,unknown,unknown,46900000.0,24.4,1922391.6
+5742.0,2.0,3.0,3.0,2005,karachi,scheme 33,excellent,1.0,house,yes,no,unknown,36400000.0,21.09,1725862.07
+6654.0,5.0,4.0,2.0,2005,lahore,wapda town,good,0.0,house,unknown,no,no,87100000.0,24.44,3563717.31
+3647.0,3.0,3.0,3.0,2005,lahore,garden town,fair,1.0,house,no,yes,yes,39200000.0,13.4,2926295.59
+2848.0,3.0,2.0,3.0,2022,karachi,north nazimabad,new,1.0,house,yes,no,yes,57800000.0,10.46,5525298.46
+9115.0,2.0,4.0,1.0,2005,lahore,dha phase 7,good,0.0,house,yes,unknown,no,186300000.0,33.48,5564473.4
+3869.0,2.0,2.0,2.0,2018,rawalpindi,bahria town,excellent,0.0,house,unknown,unknown,yes,39200000.0,14.21,2758387.18
+6613.0,3.0,3.0,1.0,2005,karachi,gulshan-e-iqbal,good,2.0,villa,unknown,yes,unknown,53000000.0,24.29,2181952.22
+6386.0,5.0,6.0,1.0,2013,karachi,dha phase 6,excellent,0.0,house,yes,yes,no,153100000.0,23.46,6527008.3
+2589.0,5.0,6.0,1.0,2005,islamabad,e-7,good,4.0,house,yes,yes,unknown,34100000.0,9.51,3585834.3
+584.0,4.0,3.0,2.0,2005,karachi,dha phase 7,fair,4.0,house,no,no,unknown,13200000.0,2.15,6153595.89
+1714.0,4.0,5.0,3.0,2018,islamabad,b-17,excellent,1.0,house,unknown,unknown,no,22000000.0,6.3,3494457.41
+3530.0,3.0,3.0,1.0,2005,rawalpindi,satellite town,excellent,0.0,house,no,yes,yes,31200000.0,12.97,2406288.95
+2096.0,4.0,3.0,1.0,1990,rawalpindi,askari,fair,2.0,house,unknown,no,no,15300000.0,7.7,1987321.09
+1505.0,4.0,3.0,1.0,2005,islamabad,g-11,fair,3.0,house,unknown,unknown,no,19200000.0,5.53,3473222.59
+1255.0,5.0,4.0,1.0,2005,lahore,dha phase 5,poor,4.0,house,unknown,unknown,no,23500000.0,4.61,5097908.37
+1492.0,3.0,3.0,2.0,1993,islamabad,b-17,fair,0.0,house,yes,unknown,unknown,12400000.0,5.48,2262667.56
+7031.0,4.0,5.0,2.0,1997,rawalpindi,saddar,excellent,4.0,house,yes,unknown,yes,33800000.0,25.83,1308782.53
+833.0,2.0,3.0,3.0,2015,karachi,gulistan-e-johar,poor,1.0,house,unknown,unknown,no,11200000.0,3.06,3660504.2
+1527.0,4.0,3.0,2.0,2005,lahore,faisal town,good,1.0,villa,yes,no,no,22300000.0,5.61,3975884.09
+3384.0,3.0,3.0,1.0,2005,karachi,gulshan-e-iqbal,good,1.0,villa,yes,unknown,unknown,36000000.0,12.43,2896276.6
+1447.0,3.0,3.0,1.0,2010,lahore,wapda town,good,2.0,house,no,no,yes,14800000.0,5.31,2784588.8
+936.0,4.0,4.0,2.0,1995,islamabad,g-11,good,1.0,house,unknown,unknown,unknown,16400000.0,3.44,4770192.31
+1290.0,5.0,5.0,1.0,2005,rawalpindi,adiala road,good,3.0,villa,unknown,no,no,14500000.0,4.74,3060174.42
+933.0,5.0,6.0,2.0,2004,karachi,dha phase 6,good,2.0,villa,yes,no,yes,32200000.0,3.43,9395980.71
+3248.0,5.0,5.0,1.0,1994,rawalpindi,askari,good,2.0,house,no,yes,no,23900000.0,11.93,2003317.43
+1310.0,6.0,5.0,2.0,2023,lahore,state life housing society,fair,1.0,house,yes,yes,no,21300000.0,4.81,4426660.31
+2860.0,4.0,3.0,1.0,2005,faisalabad,satiana road,good,1.0,house,yes,unknown,unknown,14200000.0,10.51,1351730.77
+712.0,6.0,4.0,2.0,1995,islamabad,bahria town,needs renovation,2.0,house,unknown,unknown,yes,9100000.0,2.62,3479599.72
+1929.0,6.0,7.0,2.0,2022,lahore,dha phase 7,excellent,1.0,house,unknown,yes,yes,50000000.0,7.09,7056765.16
+1928.0,3.0,3.0,3.0,1986,islamabad,f-8,good,2.0,house,yes,yes,no,43400000.0,7.08,6128449.17
+1529.0,5.0,4.0,2.0,2005,unknown,bahria town,excellent,2.0,villa,unknown,unknown,yes,24100000.0,5.62,4291187.05
